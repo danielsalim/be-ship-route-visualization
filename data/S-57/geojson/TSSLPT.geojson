@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TSSLPT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 4796, "PRIM": 3, "GRUP": 2, "OBJL": 148, "RVER": 1, "AGEN": 550, "FIDN": 14026108, "FIDS": 50, "LNAM": "022600D6057C0032", "CATTSS": 1, "ORIENT": 50.0, "INFORM": "Northbound Puget Sound Traffic Lane", "SORDAT": "20060807", "SORIND": "US,US,reprt,L-865\/06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.443352, 47.319269 ], [ -122.4415184, 47.3203302 ], [ -122.4401501, 47.3211222 ], [ -122.4420325, 47.3211223 ], [ -122.442169, 47.320866 ], [ -122.4425075, 47.3203351 ], [ -122.442549, 47.32027 ], [ -122.442983, 47.319692 ], [ -122.443352, 47.319269 ] ] ] } }
+]
+}

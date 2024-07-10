@@ -1,0 +1,2149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4099438,
+          -32.2522015
+        ]
+      },
+      "properties": {
+        "name": "P1108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3576979,
+          -32.2783244
+        ]
+      },
+      "properties": {
+        "name": "P1109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3719119,
+          -32.2268468
+        ]
+      },
+      "properties": {
+        "name": "P11016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3538563,
+          -32.2026447
+        ]
+      },
+      "properties": {
+        "name": "P1102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4498966,
+          -32.2268468
+        ]
+      },
+      "properties": {
+        "name": "P1103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4537382,
+          -32.2522015
+        ]
+      },
+      "properties": {
+        "name": "P1104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3569296,
+          -32.2537381
+        ]
+      },
+      "properties": {
+        "name": "P1105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3527038,
+          -32.2268468
+        ]
+      },
+      "properties": {
+        "name": "P11011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4314569,
+          -32.2287676
+        ]
+      },
+      "properties": {
+        "name": "P11012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4137854,
+          -32.227231
+        ]
+      },
+      "properties": {
+        "name": "P11018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3333333,
+          -32.2999999
+        ]
+      },
+      "properties": {
+        "name": "P1101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3749851,
+          -32.2587322
+        ]
+      },
+      "properties": {
+        "name": "P1106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.472178,
+          -32.2571956
+        ]
+      },
+      "properties": {
+        "name": "P1107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3696069,
+          -32.2084071
+        ]
+      },
+      "properties": {
+        "name": "P11010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4664155,
+          -32.2337617
+        ]
+      },
+      "properties": {
+        "name": "P11013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3868941,
+          -32.2322251
+        ]
+      },
+      "properties": {
+        "name": "P11014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4276152,
+          -32.2571956
+        ]
+      },
+      "properties": {
+        "name": "P11015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.369991,
+          -32.2856235
+        ]
+      },
+      "properties": {
+        "name": "P11017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4823944,
+          -32.2722001
+        ]
+      },
+      "properties": {
+        "name": "P11019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4425078,
+          -32.2735779
+        ]
+      },
+      "properties": {
+        "name": "P11020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.36125,
+          -32.2631263
+        ]
+      },
+      "properties": {
+        "name": "P11021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.4276152,
+            -32.2571956
+          ],
+          [
+            62.4276152,
+            -32.2491282
+          ],
+          [
+            62.4387559,
+            -32.2491282
+          ],
+          [
+            62.4387559,
+            -32.2571956
+          ],
+          [
+            62.4276152,
+            -32.2571956
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.36125,
+            -32.2631263
+          ],
+          [
+            62.3525346,
+            -32.2654109
+          ],
+          [
+            62.3470488,
+            -32.2675856
+          ],
+          [
+            62.3435597,
+            -32.2720824
+          ],
+          [
+            62.3401025,
+            -32.2776837
+          ],
+          [
+            62.3404112,
+            -32.2885673
+          ],
+          [
+            62.3456479,
+            -32.2948713
+          ],
+          [
+            62.3547668,
+            -32.2982697
+          ],
+          [
+            62.3717466,
+            -32.2982697
+          ],
+          [
+            62.3910417,
+            -32.297352
+          ],
+          [
+            62.4058604,
+            -32.2953853
+          ],
+          [
+            62.4083474,
+            -32.2912386
+          ],
+          [
+            62.4104912,
+            -32.2856826
+          ],
+          [
+            62.4101825,
+            -32.2778148
+          ],
+          [
+            62.4084845,
+            -32.2712578
+          ],
+          [
+            62.4027732,
+            -32.2667987
+          ],
+          [
+            62.3953638,
+            -32.2640444
+          ],
+          [
+            62.3816257,
+            -32.2629952
+          ],
+          [
+            62.36125,
+            -32.2631263
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.3696069,
+            -32.2084071
+          ],
+          [
+            62.3696069,
+            -32.1976506
+          ],
+          [
+            62.3834367,
+            -32.1976506
+          ],
+          [
+            62.3834367,
+            -32.2084071
+          ],
+          [
+            62.3696069,
+            -32.2084071
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.369991,
+            -32.2856235
+          ],
+          [
+            62.369991,
+            -32.272562
+          ],
+          [
+            62.396114,
+            -32.272562
+          ],
+          [
+            62.396114,
+            -32.2848552
+          ],
+          [
+            62.369991,
+            -32.2856235
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.3749851,
+            -32.2587322
+          ],
+          [
+            62.3749851,
+            -32.2506648
+          ],
+          [
+            62.3911199,
+            -32.2506648
+          ],
+          [
+            62.3911199,
+            -32.2587322
+          ],
+          [
+            62.3749851,
+            -32.2587322
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.4823944,
+            -32.2722001
+          ],
+          [
+            62.4681804,
+            -32.2725843
+          ],
+          [
+            62.4608814,
+            -32.27681
+          ],
+          [
+            62.4589606,
+            -32.2841091
+          ],
+          [
+            62.4747112,
+            -32.2879507
+          ],
+          [
+            62.4916143,
+            -32.2860299
+          ],
+          [
+            62.4935351,
+            -32.2783467
+          ],
+          [
+            62.4900776,
+            -32.2725843
+          ],
+          [
+            62.4823944,
+            -32.2722001
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.472178,
+            -32.2571956
+          ],
+          [
+            62.472178,
+            -32.2479757
+          ],
+          [
+            62.4848553,
+            -32.2479757
+          ],
+          [
+            62.4848553,
+            -32.2571956
+          ],
+          [
+            62.472178,
+            -32.2571956
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.4664155,
+            -32.2337617
+          ],
+          [
+            62.4664155,
+            -32.2222369
+          ],
+          [
+            62.4813978,
+            -32.2222369
+          ],
+          [
+            62.4813978,
+            -32.2337617
+          ],
+          [
+            62.4664155,
+            -32.2337617
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.4425078,
+            -32.2735779
+          ],
+          [
+            62.4290622,
+            -32.2728096
+          ],
+          [
+            62.4236839,
+            -32.2758829
+          ],
+          [
+            62.4225314,
+            -32.280877
+          ],
+          [
+            62.4225314,
+            -32.2827978
+          ],
+          [
+            62.4267572,
+            -32.2858711
+          ],
+          [
+            62.4382821,
+            -32.2854869
+          ],
+          [
+            62.4478861,
+            -32.2831819
+          ],
+          [
+            62.4490386,
+            -32.2770354
+          ],
+          [
+            62.4425078,
+            -32.2735779
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.3333333,
+            -32.2999999
+          ],
+          [
+            62.3333333,
+            -32.1333332
+          ],
+          [
+            62.5,
+            -32.1333332
+          ],
+          [
+            62.5,
+            -32.2999999
+          ],
+          [
+            62.3333333,
+            -32.2999999
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.3868941,
+            -32.2322251
+          ],
+          [
+            62.3868941,
+            -32.2222369
+          ],
+          [
+            62.398419,
+            -32.2222369
+          ],
+          [
+            62.398419,
+            -32.2322251
+          ],
+          [
+            62.3868941,
+            -32.2322251
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3868941,
+              -32.2322251
+            ],
+            [
+              62.3868941,
+              -32.2222369
+            ],
+            [
+              62.398419,
+              -32.2222369
+            ],
+            [
+              62.398419,
+              -32.2322251
+            ],
+            [
+              62.3868941,
+              -32.2322251
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3333333,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.2999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3333333,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.2999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.4276152,
+              -32.2571956
+            ],
+            [
+              62.4276152,
+              -32.2491282
+            ],
+            [
+              62.4387559,
+              -32.2491282
+            ],
+            [
+              62.4387559,
+              -32.2571956
+            ],
+            [
+              62.4276152,
+              -32.2571956
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3333333,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.2999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3696069,
+              -32.2084071
+            ],
+            [
+              62.3696069,
+              -32.1976506
+            ],
+            [
+              62.3834367,
+              -32.1976506
+            ],
+            [
+              62.3834367,
+              -32.2084071
+            ],
+            [
+              62.3696069,
+              -32.2084071
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.369991,
+              -32.2856235
+            ],
+            [
+              62.369991,
+              -32.272562
+            ],
+            [
+              62.396114,
+              -32.272562
+            ],
+            [
+              62.396114,
+              -32.2848552
+            ],
+            [
+              62.369991,
+              -32.2856235
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3749851,
+              -32.2587322
+            ],
+            [
+              62.3749851,
+              -32.2506648
+            ],
+            [
+              62.3911199,
+              -32.2506648
+            ],
+            [
+              62.3911199,
+              -32.2587322
+            ],
+            [
+              62.3749851,
+              -32.2587322
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3333333,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.2999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.472178,
+              -32.2571956
+            ],
+            [
+              62.472178,
+              -32.2479757
+            ],
+            [
+              62.4848553,
+              -32.2479757
+            ],
+            [
+              62.4848553,
+              -32.2571956
+            ],
+            [
+              62.472178,
+              -32.2571956
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.4664155,
+              -32.2337617
+            ],
+            [
+              62.4664155,
+              -32.2222369
+            ],
+            [
+              62.4813978,
+              -32.2222369
+            ],
+            [
+              62.4813978,
+              -32.2337617
+            ],
+            [
+              62.4664155,
+              -32.2337617
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3333333,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.2999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NavigationalSystemOfMarks",
+        "foid": "1810:1028:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "marksNavigationalSystemOf",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3333333,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.2999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DataCoverage",
+        "foid": "1810:1031:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "maximumDisplayScale",
+            "Value": 22000
+          },
+          {
+            "Name": "minimumDisplayScale",
+            "Value": 180000
+          },
+          {
+            "Name": "optimumDisplayScale",
+            "Value": 45000
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3333333,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.2999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SoundingDatum",
+        "foid": "1810:3877773491:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 23
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3333333,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.2999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "VerticalDatumOfData",
+        "foid": "1810:3877745791:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 17
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3333333,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.2999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "QualityOfBathymetricData",
+        "foid": "1810:1041:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfTemporalVariation",
+            "Value": 6
+          },
+          {
+            "Name": "dataAssessment",
+            "Value": 1
+          },
+          {
+            "Name": "featuresDetected",
+            "id": 3
+          },
+          {
+            "Name": "leastDepthOfDetectedFeaturesMeasured",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "significantFeaturesDetected",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "fullSeafloorCoverageAchieved",
+            "Value": 0
+          },
+          {
+            "Name": "surveyDateRange",
+            "id": 7
+          },
+          {
+            "Name": "dateEnd",
+            "parent": 7,
+            "Value": 20210101
+          },
+          {
+            "Name": "zoneOfConfidence",
+            "id": 9
+          },
+          {
+            "Name": "categoryOfZoneOfConfidenceInData",
+            "parent": 9,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3538563,
+          -32.2026447
+        ]
+      },
+      "properties": {
+        "name": "SmallCraftFacility",
+        "foid": "1810:1024:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfSmallCraftFacility",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "No 1"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4498966,
+          -32.2268468
+        ]
+      },
+      "properties": {
+        "name": "HarbourFacility",
+        "foid": "1810:1036:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfHarbourFacility",
+            "Value": 5
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Mayflower"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4537382,
+          -32.2522015
+        ]
+      },
+      "properties": {
+        "name": "SignalStationTraffic",
+        "foid": "1810:1039:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfSignalStationTraffic",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3569296,
+          -32.2537381
+        ]
+      },
+      "properties": {
+        "name": "CoastGuardStation",
+        "foid": "1810:1042:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "communicationChannel",
+            "Value": 16
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Cadgwith"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3749851,
+              -32.2587322
+            ],
+            [
+              62.3749851,
+              -32.2506648
+            ],
+            [
+              62.3911199,
+              -32.2506648
+            ],
+            [
+              62.3911199,
+              -32.2587322
+            ],
+            [
+              62.3749851,
+              -32.2587322
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "CoastGuardStation",
+        "foid": "1810:1043:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "communicationChannel",
+            "Value": 16
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Jussland"
+          },
+          {
+            "Name": "isMRCC",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.472178,
+              -32.2571956
+            ],
+            [
+              62.472178,
+              -32.2479757
+            ],
+            [
+              62.4848553,
+              -32.2479757
+            ],
+            [
+              62.4848553,
+              -32.2571956
+            ],
+            [
+              62.472178,
+              -32.2571956
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SignalStationTraffic",
+        "foid": "1810:1034:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfSignalStationTraffic",
+            "Value": 8
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3333333,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.1333332
+            ],
+            [
+              62.5,
+              -32.2999999
+            ],
+            [
+              62.3333333,
+              -32.2999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:1032:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 10
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 20
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4099438,
+          -32.2522015
+        ]
+      },
+      "properties": {
+        "name": "SignalStationWarning",
+        "foid": "1810:1037:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfSignalStationWarning",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3576979,
+          -32.2783244
+        ]
+      },
+      "properties": {
+        "name": "PilotBoardingPlace",
+        "foid": "1810:1030:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfPilotBoardingPlace",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Nab West"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3696069,
+              -32.2084071
+            ],
+            [
+              62.3696069,
+              -32.1976506
+            ],
+            [
+              62.3834367,
+              -32.1976506
+            ],
+            [
+              62.3834367,
+              -32.2084071
+            ],
+            [
+              62.3696069,
+              -32.2084071
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SmallCraftFacility",
+        "foid": "1810:1029:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfSmallCraftFacility",
+            "Value": 5
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Cremyll"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3527038,
+          -32.2268468
+        ]
+      },
+      "properties": {
+        "name": "RescueStation",
+        "foid": "1810:1025:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfRescueStation",
+            "Value": 1
+          },
+          {
+            "Name": "communicationChannel",
+            "Value": 12
+          },
+          {
+            "Name": "featureName",
+            "id": 3
+          },
+          {
+            "Name": "name",
+            "parent": 3,
+            "Value": "Lizard"
+          },
+          {
+            "Name": "language",
+            "parent": 3,
+            "Value": "eng"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4314569,
+          -32.2287676
+        ]
+      },
+      "properties": {
+        "name": "HarbourFacility",
+        "foid": "1810:1021:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfHarbourFacility",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Cadgwith"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.4664155,
+              -32.2337617
+            ],
+            [
+              62.4664155,
+              -32.2222369
+            ],
+            [
+              62.4813978,
+              -32.2222369
+            ],
+            [
+              62.4813978,
+              -32.2337617
+            ],
+            [
+              62.4664155,
+              -32.2337617
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "HarbourFacility",
+        "foid": "1810:1026:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfHarbourFacility",
+            "Value": 9
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.3868941,
+              -32.2322251
+            ],
+            [
+              62.3868941,
+              -32.2222369
+            ],
+            [
+              62.398419,
+              -32.2222369
+            ],
+            [
+              62.398419,
+              -32.2322251
+            ],
+            [
+              62.3868941,
+              -32.2322251
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "RescueStation",
+        "foid": "1810:1023:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfRescueStation",
+            "Value": 5
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.4276152,
+              -32.2571956
+            ],
+            [
+              62.4276152,
+              -32.2491282
+            ],
+            [
+              62.4387559,
+              -32.2491282
+            ],
+            [
+              62.4387559,
+              -32.2571956
+            ],
+            [
+              62.4276152,
+              -32.2571956
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SignalStationWarning",
+        "foid": "1810:1038:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfSignalStationWarning",
+            "Value": 7
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3719119,
+          -32.2268468
+        ]
+      },
+      "properties": {
+        "name": "RescueStation",
+        "foid": "1810:1027:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfRescueStation",
+            "Value": 8
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": null
+          },
+          {
+            "Name": "information",
+            "id": 4
+          },
+          {
+            "Name": "text",
+            "parent": 4,
+            "Value": "Automated External Defibrillator (AED)"
+          },
+          {
+            "Name": "language",
+            "parent": 4,
+            "Value": "eng"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.369991,
+              -32.2856235
+            ],
+            [
+              62.369991,
+              -32.272562
+            ],
+            [
+              62.396114,
+              -32.272562
+            ],
+            [
+              62.396114,
+              -32.2848552
+            ],
+            [
+              62.369991,
+              -32.2856235
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "PilotBoardingPlace",
+        "foid": "1810:1040:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfPilotBoardingPlace",
+            "Value": 2
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Deep Sea Cherbourg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4137854,
+          -32.227231
+        ]
+      },
+      "properties": {
+        "name": "HarbourFacility",
+        "foid": "1810:1022:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfHarbourFacility",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Dover 1"
+          }
+        ]
+      }
+    }
+  ]
+}

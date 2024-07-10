@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "FOGSIG",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 48, "PRIM": 1, "GRUP": 2, "OBJL": 58, "RVER": 1, "AGEN": 550, "FIDN": -315880616, "FIDS": 12345, "LNAM": "0226ED2C0B583039", "CATFOG": 7, "SIGGRP": "(1)", "SIGPER": 14.0, "SIGSEQ": "01.0+(13.0)", "SCAMIN": 29999, "SORDAT": "20030107", "SORIND": "US,US,graph,Chart 18453" }, "geometry": { "type": "Point", "coordinates": [ -122.411285, 47.2848421 ] } },
+{ "type": "Feature", "properties": { "RCID": 49, "PRIM": 1, "GRUP": 2, "OBJL": 58, "RVER": 1, "AGEN": 550, "FIDN": 713351998, "FIDS": 12345, "LNAM": "02262A84E33E3039", "CATFOG": 3, "SIGGRP": "(1)", "SIGPER": 25.0, "SIGSEQ": "05.0+(20.0)", "SCAMIN": 29999, "SORDAT": "20120403", "SORIND": "US,US,reprt,13thCGD,LNM 14\/12" }, "geometry": { "type": "Point", "coordinates": [ -122.5138958, 47.3066353 ] } },
+{ "type": "Feature", "properties": { "RCID": 50, "PRIM": 1, "GRUP": 2, "OBJL": 58, "RVER": 1, "AGEN": 550, "FIDN": 106534, "FIDS": 1, "LNAM": "02260001A0260001", "CATFOG": 10, "SIGGRP": "(1)", "SIGPER": 15.0, "SIGSEQ": "02.0+(13.0)", "SCAMIN": 29999, "SORDAT": "20030401", "SORIND": "US,US,reprt,13thCGD,LNM 13\/03" }, "geometry": { "type": "Point", "coordinates": [ -122.4145227, 47.2848543 ] } }
+]
+}

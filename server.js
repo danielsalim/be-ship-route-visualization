@@ -1,37 +1,45 @@
 const express = require('express');
-const fs = require('fs');
-const path = require('path');
-const yaml = require('js-yaml');
-const convertYamlToGeoJson = require('./src/convertYamlToGeoJson');
+const WebSocket = require('ws');
+const bodyParser = require('body-parser');
+const conversionRoutes = require('./src/routes/conversionRoute');
+const routePlanningRoutes = require('./src/routes/routePlanningRoute');
 
-const app = express();
+const app = express()
 const port = 3000;
 
-app.get('/convert', (req, res) => {
-    // Specify the YAML file to convert
-    const yamlFileName = req.query.file || '101AA00DS0001.yaml'; // Default to 's101-dataset1.yaml' if not specified
-    const yamlFilePath = path.join(__dirname, 'data', 'yaml', yamlFileName);
+app.use(bodyParser.json());
 
-    // Check if the YAML file exists
-    if (!fs.existsSync(yamlFilePath)) {
-        return res.status(404).json({ error: 'YAML file not found' });
-    }
+app.use('/api', conversionRoutes);
+app.use('/api', routePlanningRoutes);
 
-    // Read and convert the YAML file
-    const yamlData = yaml.load(fs.readFileSync(yamlFilePath, 'utf8'));
-    const geojsonData = convertYamlToGeoJson(yamlData);
-
-    // Define the output file path
-    const outputFileName = `${path.parse(yamlFileName).name}.geojson`;
-    const outputFilePath = path.join(__dirname, 'data', 'geojson', outputFileName);
-
-    // Write the GeoJSON data to the file
-    fs.writeFileSync(outputFilePath, JSON.stringify(geojsonData, null, 2));
-
-    // Respond with the path to the converted file
-    res.json({ message: 'Conversion successful', filePath: outputFilePath });
+const server = app.listen(port, () => {
+    console.log(`Server is running at http://localhost:${port}`);
 });
 
-app.listen(port, () => {
-    console.log(`Server is running at http://localhost:${port}`);
+// WebSocket setup for AIS data
+const wss = new WebSocket.Server({ server });
+const aisSocket = new WebSocket("wss://stream.aisstream.io/v0/stream");
+
+aisSocket.onopen = function (_) {
+    let subscriptionMessage = {
+        Apikey: "56e094eeace3feec04601e5a5652fb4bcd808d81",
+        BoundingBoxes: [[[-122.54808807373047, 47.23564910888672], [-122.35845184326172, 47.32112503051758]]],
+    };
+    aisSocket.send(JSON.stringify(subscriptionMessage));
+};
+
+aisSocket.onmessage = function (event) {
+    let aisMessage = JSON.parse(event.data);
+    console.log(aisMessage)
+    // Broadcast the AIS message to all connected clients
+    wss.clients.forEach(client => {
+        if (client.readyState === WebSocket.OPEN) {
+            client.send(JSON.stringify(aisMessage));
+        }
+    });
+};
+
+wss.on('connection', ws => {
+    console.log('Client connected to WebSocket');
+    ws.on('close', () => console.log('Client disconnected from WebSocket'));
 });

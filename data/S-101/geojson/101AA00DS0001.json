@@ -1,0 +1,2008 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5,
+          -32.6333333
+        ]
+      },
+      "properties": {
+        "name": "P1101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5103266,
+          -32.4973574
+        ]
+      },
+      "properties": {
+        "name": "P1102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5633422,
+          -32.497449
+        ]
+      },
+      "properties": {
+        "name": "P1103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5105615,
+          -32.5503583
+        ]
+      },
+      "properties": {
+        "name": "P1104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5639913,
+          -32.5280418
+        ]
+      },
+      "properties": {
+        "name": "P1105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5129849,
+          -32.5482712
+        ]
+      },
+      "properties": {
+        "name": "P1106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5129849,
+          -32.5281667
+        ]
+      },
+      "properties": {
+        "name": "P1107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5636965,
+          -32.5480215
+        ]
+      },
+      "properties": {
+        "name": "P1108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5153667,
+          -32.4933112
+        ]
+      },
+      "properties": {
+        "name": "P1109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5636965,
+            -32.5480215
+          ],
+          [
+            61.5636965,
+            -32.5320381
+          ],
+          [
+            61.6052682,
+            -32.5320381
+          ],
+          [
+            61.6052682,
+            -32.5480215
+          ],
+          [
+            61.5636965,
+            -32.5480215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5129849,
+            -32.5482712
+          ],
+          [
+            61.5129849,
+            -32.5319132
+          ],
+          [
+            61.5461538,
+            -32.5319132
+          ],
+          [
+            61.5461538,
+            -32.5482712
+          ],
+          [
+            61.5129849,
+            -32.5482712
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5153667,
+            -32.4933112
+          ],
+          [
+            61.5153667,
+            -32.4798171
+          ],
+          [
+            61.5406281,
+            -32.4798171
+          ],
+          [
+            61.5406281,
+            -32.4933112
+          ],
+          [
+            61.5153667,
+            -32.4933112
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5,
+            -32.6333333
+          ],
+          [
+            61.5,
+            -32.4666666
+          ],
+          [
+            61.6666666,
+            -32.4666666
+          ],
+          [
+            61.6666666,
+            -32.6333333
+          ],
+          [
+            61.5,
+            -32.6333333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5633422,
+            -32.497449
+          ],
+          [
+            61.5633422,
+            -32.4754986
+          ],
+          [
+            61.6068598,
+            -32.4754986
+          ],
+          [
+            61.6068598,
+            -32.497449
+          ],
+          [
+            61.5633422,
+            -32.497449
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5639913,
+            -32.5280418
+          ],
+          [
+            61.5639913,
+            -32.5143031
+          ],
+          [
+            61.6055631,
+            -32.5143031
+          ],
+          [
+            61.6055631,
+            -32.5280418
+          ],
+          [
+            61.5639913,
+            -32.5280418
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5129849,
+            -32.5281667
+          ],
+          [
+            61.5129849,
+            -32.5141782
+          ],
+          [
+            61.5461538,
+            -32.5141782
+          ],
+          [
+            61.5461538,
+            -32.5281667
+          ],
+          [
+            61.5129849,
+            -32.5281667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5103266,
+            -32.4973574
+          ],
+          [
+            61.5103266,
+            -32.4755941
+          ],
+          [
+            61.5459083,
+            -32.4755941
+          ],
+          [
+            61.5459083,
+            -32.4973574
+          ],
+          [
+            61.5103266,
+            -32.4973574
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5105615,
+            -32.5503583
+          ],
+          [
+            61.5105615,
+            -32.5118254
+          ],
+          [
+            61.6081361,
+            -32.5118254
+          ],
+          [
+            61.6081361,
+            -32.5503583
+          ],
+          [
+            61.5105615,
+            -32.5503583
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.6333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.6333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5636965,
+              -32.5480215
+            ],
+            [
+              61.5636965,
+              -32.5320381
+            ],
+            [
+              61.6052682,
+              -32.5320381
+            ],
+            [
+              61.6052682,
+              -32.5480215
+            ],
+            [
+              61.5636965,
+              -32.5480215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.6333333
+            ]
+          ],
+          [
+            [
+              61.5103266,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4973574
+            ]
+          ],
+          [
+            [
+              61.5633422,
+              -32.497449
+            ],
+            [
+              61.5633422,
+              -32.4754986
+            ],
+            [
+              61.6068598,
+              -32.4754986
+            ],
+            [
+              61.6068598,
+              -32.497449
+            ],
+            [
+              61.5633422,
+              -32.497449
+            ]
+          ],
+          [
+            [
+              61.5105615,
+              -32.5503583
+            ],
+            [
+              61.5105615,
+              -32.5118254
+            ],
+            [
+              61.6081361,
+              -32.5118254
+            ],
+            [
+              61.6081361,
+              -32.5503583
+            ],
+            [
+              61.5105615,
+              -32.5503583
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5129849,
+              -32.5482712
+            ],
+            [
+              61.5129849,
+              -32.5319132
+            ],
+            [
+              61.5461538,
+              -32.5319132
+            ],
+            [
+              61.5461538,
+              -32.5482712
+            ],
+            [
+              61.5129849,
+              -32.5482712
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5633422,
+              -32.497449
+            ],
+            [
+              61.5633422,
+              -32.4754986
+            ],
+            [
+              61.6068598,
+              -32.4754986
+            ],
+            [
+              61.6068598,
+              -32.497449
+            ],
+            [
+              61.5633422,
+              -32.497449
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5153667,
+              -32.4933112
+            ],
+            [
+              61.5153667,
+              -32.4798171
+            ],
+            [
+              61.5406281,
+              -32.4798171
+            ],
+            [
+              61.5406281,
+              -32.4933112
+            ],
+            [
+              61.5153667,
+              -32.4933112
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.6333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5103266,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4973574
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5103266,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4973574
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5105615,
+              -32.5503583
+            ],
+            [
+              61.5105615,
+              -32.5118254
+            ],
+            [
+              61.6081361,
+              -32.5118254
+            ],
+            [
+              61.6081361,
+              -32.5503583
+            ],
+            [
+              61.5105615,
+              -32.5503583
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5639913,
+              -32.5280418
+            ],
+            [
+              61.5639913,
+              -32.5143031
+            ],
+            [
+              61.6055631,
+              -32.5143031
+            ],
+            [
+              61.6055631,
+              -32.5280418
+            ],
+            [
+              61.5639913,
+              -32.5280418
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5129849,
+              -32.5281667
+            ],
+            [
+              61.5129849,
+              -32.5141782
+            ],
+            [
+              61.5461538,
+              -32.5141782
+            ],
+            [
+              61.5461538,
+              -32.5281667
+            ],
+            [
+              61.5129849,
+              -32.5281667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.6333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NavigationalSystemOfMarks",
+        "foid": "1810:7702079:60000",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "marksNavigationalSystemOf",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.6333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SoundingDatum",
+        "foid": "1810:3877773491:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 23
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.6333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "VerticalDatumOfData",
+        "foid": "1810:3877745791:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 17
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.6333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DataCoverage",
+        "foid": "1810:7702077:60000",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "maximumDisplayScale",
+            "Value": 22000
+          },
+          {
+            "Name": "minimumDisplayScale",
+            "Value": 180000
+          },
+          {
+            "Name": "optimumDisplayScale",
+            "Value": 45000
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.6333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "QualityOfBathymetricData",
+        "foid": "1810:7702078:60000",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfTemporalVariation",
+            "Value": 6
+          },
+          {
+            "Name": "dataAssessment",
+            "Value": 1
+          },
+          {
+            "Name": "featuresDetected",
+            "id": 3
+          },
+          {
+            "Name": "leastDepthOfDetectedFeaturesMeasured",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "significantFeaturesDetected",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "fullSeafloorCoverageAchieved",
+            "Value": 0
+          },
+          {
+            "Name": "surveyDateRange",
+            "id": 7
+          },
+          {
+            "Name": "dateEnd",
+            "parent": 7,
+            "Value": 20210101
+          },
+          {
+            "Name": "zoneOfConfidence",
+            "id": 9
+          },
+          {
+            "Name": "categoryOfZoneOfConfidenceInData",
+            "parent": 9,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.6333333
+            ],
+            [
+              61.5,
+              -32.6333333
+            ]
+          ],
+          [
+            [
+              61.5103266,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4973574
+            ]
+          ],
+          [
+            [
+              61.5633422,
+              -32.497449
+            ],
+            [
+              61.5633422,
+              -32.4754986
+            ],
+            [
+              61.6068598,
+              -32.4754986
+            ],
+            [
+              61.6068598,
+              -32.497449
+            ],
+            [
+              61.5633422,
+              -32.497449
+            ]
+          ],
+          [
+            [
+              61.5105615,
+              -32.5503583
+            ],
+            [
+              61.5105615,
+              -32.5118254
+            ],
+            [
+              61.6081361,
+              -32.5118254
+            ],
+            [
+              61.6081361,
+              -32.5503583
+            ],
+            [
+              61.5105615,
+              -32.5503583
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:7702085:60000",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 20
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 100
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5105615,
+            -32.5503583
+          ],
+          [
+            61.5105615,
+            -32.5118254
+          ],
+          [
+            61.6081361,
+            -32.5118254
+          ],
+          [
+            61.6081361,
+            -32.5503583
+          ],
+          [
+            61.5105615,
+            -32.5503583
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Coastline",
+        "foid": "1810:7702092:60000",
+        "prim": "Curve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5639913,
+              -32.5280418
+            ],
+            [
+              61.5639913,
+              -32.5143031
+            ],
+            [
+              61.6055631,
+              -32.5143031
+            ],
+            [
+              61.6055631,
+              -32.5280418
+            ],
+            [
+              61.5639913,
+              -32.5280418
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BuiltUpArea",
+        "foid": "1810:7702084:60000",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfBuiltUpArea",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Pujatuarjuit"
+          },
+          {
+            "Name": "featureName",
+            "id": 6
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 6,
+            "Value": 2
+          },
+          {
+            "Name": "language",
+            "parent": 6,
+            "Value": "iku"
+          },
+          {
+            "Name": "name",
+            "parent": 6,
+            "Value": "ᐳᔭᑐᐊᕐᔪᐃᑦ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5129849,
+              -32.5482712
+            ],
+            [
+              61.5129849,
+              -32.5319132
+            ],
+            [
+              61.5461538,
+              -32.5319132
+            ],
+            [
+              61.5461538,
+              -32.5482712
+            ],
+            [
+              61.5129849,
+              -32.5482712
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BuiltUpArea",
+        "foid": "1810:7702082:60000",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfBuiltUpArea",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Qilanaaqtuut"
+          },
+          {
+            "Name": "featureName",
+            "id": 6
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 6,
+            "Value": 2
+          },
+          {
+            "Name": "language",
+            "parent": 6,
+            "Value": "iku"
+          },
+          {
+            "Name": "name",
+            "parent": 6,
+            "Value": "ᕿᓚᓈᖅᑑᑦ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5103266,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4973574
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LandArea",
+        "foid": "1810:7702080:60000",
+        "prim": "Surface"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5129849,
+              -32.5281667
+            ],
+            [
+              61.5129849,
+              -32.5141782
+            ],
+            [
+              61.5461538,
+              -32.5141782
+            ],
+            [
+              61.5461538,
+              -32.5281667
+            ],
+            [
+              61.5129849,
+              -32.5281667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BuiltUpArea",
+        "foid": "1810:7702086:60000",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfBuiltUpArea",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Qikiqtaarjuuk"
+          },
+          {
+            "Name": "featureName",
+            "id": 6
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 6,
+            "Value": 2
+          },
+          {
+            "Name": "language",
+            "parent": 6,
+            "Value": "iku"
+          },
+          {
+            "Name": "name",
+            "parent": 6,
+            "Value": "ᕿᑭᖅᑖ??ᔫᒃ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5633422,
+            -32.497449
+          ],
+          [
+            61.5633422,
+            -32.4754986
+          ],
+          [
+            61.6068598,
+            -32.4754986
+          ],
+          [
+            61.6068598,
+            -32.497449
+          ],
+          [
+            61.5633422,
+            -32.497449
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Coastline",
+        "foid": "1810:7702091:60000",
+        "prim": "Curve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5633422,
+              -32.497449
+            ],
+            [
+              61.5633422,
+              -32.4754986
+            ],
+            [
+              61.6068598,
+              -32.4754986
+            ],
+            [
+              61.6068598,
+              -32.497449
+            ],
+            [
+              61.5633422,
+              -32.497449
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LandArea",
+        "foid": "1810:7702087:60000",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 1,
+            "Value": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "fin"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Inari"
+          },
+          {
+            "Name": "featureName",
+            "id": 5
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 5,
+            "Value": 2
+          },
+          {
+            "Name": "language",
+            "parent": 5,
+            "Value": "swe"
+          },
+          {
+            "Name": "name",
+            "parent": 5,
+            "Value": "Enare"
+          },
+          {
+            "Name": "featureName",
+            "id": 9
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 9,
+            "Value": 2
+          },
+          {
+            "Name": "language",
+            "parent": 9,
+            "Value": "smn"
+          },
+          {
+            "Name": "name",
+            "parent": 9,
+            "Value": "Aanaar"
+          },
+          {
+            "Name": "featureName",
+            "id": 13
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 13,
+            "Value": 2
+          },
+          {
+            "Name": "language",
+            "parent": 13,
+            "Value": "sme"
+          },
+          {
+            "Name": "name",
+            "parent": 13,
+            "Value": "Anár"
+          },
+          {
+            "Name": "featureName",
+            "id": 17
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 17,
+            "Value": 2
+          },
+          {
+            "Name": "language",
+            "parent": 17,
+            "Value": "sms"
+          },
+          {
+            "Name": "name",
+            "parent": 17,
+            "Value": "Aanar"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5103266,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4755941
+            ],
+            [
+              61.5459083,
+              -32.4973574
+            ],
+            [
+              61.5103266,
+              -32.4973574
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "IslandGroup",
+        "foid": "1810:7702083:60000",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 1,
+            "Value": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "fin"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Turvesaaret"
+          },
+          {
+            "Name": "featureName",
+            "id": 5
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 5,
+            "Value": 2
+          },
+          {
+            "Name": "language",
+            "parent": 5,
+            "Value": "smn"
+          },
+          {
+            "Name": "name",
+            "parent": 5,
+            "Value": "Lavŋesuolluuh"
+          },
+          {
+            "Name": "featureName",
+            "id": 9
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 9,
+            "Value": 2
+          },
+          {
+            "Name": "language",
+            "parent": 9,
+            "Value": "sms"
+          },
+          {
+            "Name": "name",
+            "parent": 9,
+            "Value": "Lâu'ŋŋsuõllu"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5103266,
+            -32.4973574
+          ],
+          [
+            61.5103266,
+            -32.4755941
+          ],
+          [
+            61.5459083,
+            -32.4755941
+          ],
+          [
+            61.5459083,
+            -32.4973574
+          ],
+          [
+            61.5103266,
+            -32.4973574
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Coastline",
+        "foid": "1810:7702088:60000",
+        "prim": "Curve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5636965,
+              -32.5480215
+            ],
+            [
+              61.5636965,
+              -32.5320381
+            ],
+            [
+              61.6052682,
+              -32.5320381
+            ],
+            [
+              61.6052682,
+              -32.5480215
+            ],
+            [
+              61.5636965,
+              -32.5480215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BuiltUpArea",
+        "foid": "1810:7702089:60000",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfBuiltUpArea",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "iku"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "nʕaylintn"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5153667,
+              -32.4933112
+            ],
+            [
+              61.5153667,
+              -32.4798171
+            ],
+            [
+              61.5406281,
+              -32.4798171
+            ],
+            [
+              61.5406281,
+              -32.4933112
+            ],
+            [
+              61.5153667,
+              -32.4933112
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BuiltUpArea",
+        "foid": "1810:7702081:60000",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 1,
+            "Value": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "swe"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Isnäs"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5105615,
+              -32.5503583
+            ],
+            [
+              61.5105615,
+              -32.5118254
+            ],
+            [
+              61.6081361,
+              -32.5118254
+            ],
+            [
+              61.6081361,
+              -32.5503583
+            ],
+            [
+              61.5105615,
+              -32.5503583
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LandArea",
+        "foid": "1810:7702090:60000",
+        "prim": "Surface"
+      }
+    }
+  ]
+}

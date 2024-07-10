@@ -1,0 +1,7369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9491108,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "P11030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9660738,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "P11070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9830367,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "P11031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "P11032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8812589,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "P11033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "P11034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8982219,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "P11035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.2602667
+        ]
+      },
+      "properties": {
+        "name": "P11076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.1357333
+        ]
+      },
+      "properties": {
+        "name": "P11043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.1357333
+        ]
+      },
+      "properties": {
+        "name": "P11044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8812589,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "P11045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8897404,
+          -32.1922666
+        ]
+      },
+      "properties": {
+        "name": "P11047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9151849,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "P11048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8982219,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "P11049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2149333
+        ]
+      },
+      "properties": {
+        "name": "P11050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2037333
+        ]
+      },
+      "properties": {
+        "name": "P11051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "P11052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9321478,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "P11053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "P11054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9491108,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "P11055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.232
+        ]
+      },
+      "properties": {
+        "name": "P11056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9575923,
+          -32.2149333
+        ]
+      },
+      "properties": {
+        "name": "P11057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2376
+        ]
+      },
+      "properties": {
+        "name": "P11058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.232
+        ]
+      },
+      "properties": {
+        "name": "P11059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9151849,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "P11021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9491108,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "P11022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "P11023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8982219,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "P11024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9321478,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "P11025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "P11026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8812589,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "P11066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9660738,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "P11027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2490667
+        ]
+      },
+      "properties": {
+        "name": "P11067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9151849,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "P11028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9151849,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "P11068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9321478,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "P11029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8982219,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "P11069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9491108,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "P11071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9660738,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "P11036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.1866666
+        ]
+      },
+      "properties": {
+        "name": "P11037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.1922666
+        ]
+      },
+      "properties": {
+        "name": "P11038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8812589,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "P1102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8727775,
+          -32.2376
+        ]
+      },
+      "properties": {
+        "name": "P11060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "P11061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.1696
+        ]
+      },
+      "properties": {
+        "name": "P11039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2602667
+        ]
+      },
+      "properties": {
+        "name": "P11072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.2490667
+        ]
+      },
+      "properties": {
+        "name": "P11073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9830367,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "P11074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9830367,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "P11040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8812589,
+          -32.1866666
+        ]
+      },
+      "properties": {
+        "name": "P11041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2264
+        ]
+      },
+      "properties": {
+        "name": "P11062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8727775,
+          -32.2264
+        ]
+      },
+      "properties": {
+        "name": "P11063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "P11064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9321478,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "P11075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.1866666
+        ]
+      },
+      "properties": {
+        "name": "P11042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8897404,
+          -32.1696
+        ]
+      },
+      "properties": {
+        "name": "P11046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9575923,
+          -32.2037333
+        ]
+      },
+      "properties": {
+        "name": "P11065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.833333,
+          -32.1333333
+        ]
+      },
+      "properties": {
+        "name": "P1101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8897404,
+          -32.1922666
+        ]
+      },
+      "properties": {
+        "name": "P1103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.1922666
+        ]
+      },
+      "properties": {
+        "name": "P1104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8897404,
+          -32.1696
+        ]
+      },
+      "properties": {
+        "name": "P1105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.1696
+        ]
+      },
+      "properties": {
+        "name": "P1106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.1357333
+        ]
+      },
+      "properties": {
+        "name": "P1107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.1357333
+        ]
+      },
+      "properties": {
+        "name": "P1108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9575923,
+          -32.2149333
+        ]
+      },
+      "properties": {
+        "name": "P1109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2149333
+        ]
+      },
+      "properties": {
+        "name": "P11010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9575923,
+          -32.2037333
+        ]
+      },
+      "properties": {
+        "name": "P11011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2037333
+        ]
+      },
+      "properties": {
+        "name": "P11012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8727775,
+          -32.2376
+        ]
+      },
+      "properties": {
+        "name": "P11013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2376
+        ]
+      },
+      "properties": {
+        "name": "P11014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8727775,
+          -32.2264
+        ]
+      },
+      "properties": {
+        "name": "P11015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2264
+        ]
+      },
+      "properties": {
+        "name": "P11016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.2602667
+        ]
+      },
+      "properties": {
+        "name": "P11017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2602667
+        ]
+      },
+      "properties": {
+        "name": "P11018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.2490667
+        ]
+      },
+      "properties": {
+        "name": "P11019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2490667
+        ]
+      },
+      "properties": {
+        "name": "P11020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9915182,
+            -32.1696
+          ],
+          [
+            62.8897404,
+            -32.1696
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2149333
+          ],
+          [
+            62.8388515,
+            -32.2037333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2264
+          ],
+          [
+            62.8727775,
+            -32.2264
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9915182,
+            -32.2490667
+          ],
+          [
+            62.9915182,
+            -32.2602667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9915182,
+            -32.1357333
+          ],
+          [
+            62.9915182,
+            -32.1696
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9575923,
+            -32.2149333
+          ],
+          [
+            62.8388515,
+            -32.2149333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2376
+          ],
+          [
+            62.8388515,
+            -32.2264
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2490667
+          ],
+          [
+            62.9915182,
+            -32.2490667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.833333,
+            -32.1333333
+          ],
+          [
+            62.9999997,
+            -32.1333333
+          ],
+          [
+            62.9999997,
+            -32.3
+          ],
+          [
+            62.833333,
+            -32.3
+          ],
+          [
+            62.833333,
+            -32.1333333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8897404,
+            -32.1922666
+          ],
+          [
+            62.8388515,
+            -32.1922666
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.1357333
+          ],
+          [
+            62.9915182,
+            -32.1357333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9575923,
+            -32.2037333
+          ],
+          [
+            62.9575923,
+            -32.2149333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8727775,
+            -32.2376
+          ],
+          [
+            62.8388515,
+            -32.2376
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2602667
+          ],
+          [
+            62.8388515,
+            -32.2490667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8897404,
+            -32.1696
+          ],
+          [
+            62.8897404,
+            -32.1922666
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.1922666
+          ],
+          [
+            62.8388515,
+            -32.1357333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2037333
+          ],
+          [
+            62.9575923,
+            -32.2037333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8727775,
+            -32.2264
+          ],
+          [
+            62.8727775,
+            -32.2376
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9915182,
+            -32.2602667
+          ],
+          [
+            62.8388515,
+            -32.2602667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.1922666
+          ],
+          [
+            62.8388515,
+            -32.1357333
+          ],
+          [
+            62.8388515,
+            -32.1357333
+          ],
+          [
+            62.9915182,
+            -32.1357333
+          ],
+          [
+            62.9915182,
+            -32.1357333
+          ],
+          [
+            62.9915182,
+            -32.1696
+          ],
+          [
+            62.9915182,
+            -32.1696
+          ],
+          [
+            62.8897404,
+            -32.1696
+          ],
+          [
+            62.8897404,
+            -32.1696
+          ],
+          [
+            62.8897404,
+            -32.1922666
+          ],
+          [
+            62.8897404,
+            -32.1922666
+          ],
+          [
+            62.8388515,
+            -32.1922666
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2149333
+          ],
+          [
+            62.8388515,
+            -32.2037333
+          ],
+          [
+            62.8388515,
+            -32.2037333
+          ],
+          [
+            62.9575923,
+            -32.2037333
+          ],
+          [
+            62.9575923,
+            -32.2037333
+          ],
+          [
+            62.9575923,
+            -32.2149333
+          ],
+          [
+            62.9575923,
+            -32.2149333
+          ],
+          [
+            62.8388515,
+            -32.2149333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2376
+          ],
+          [
+            62.8388515,
+            -32.2264
+          ],
+          [
+            62.8388515,
+            -32.2264
+          ],
+          [
+            62.8727775,
+            -32.2264
+          ],
+          [
+            62.8727775,
+            -32.2264
+          ],
+          [
+            62.8727775,
+            -32.2376
+          ],
+          [
+            62.8727775,
+            -32.2376
+          ],
+          [
+            62.8388515,
+            -32.2376
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8897404,
+            -32.1922666
+          ],
+          [
+            62.8388515,
+            -32.1922666
+          ],
+          [
+            62.8897404,
+            -32.1696
+          ],
+          [
+            62.8897404,
+            -32.1922666
+          ],
+          [
+            62.9915182,
+            -32.1696
+          ],
+          [
+            62.8897404,
+            -32.1696
+          ],
+          [
+            62.9915182,
+            -32.1357333
+          ],
+          [
+            62.9915182,
+            -32.1696
+          ],
+          [
+            62.8388515,
+            -32.1357333
+          ],
+          [
+            62.9915182,
+            -32.1357333
+          ],
+          [
+            62.8388515,
+            -32.1922666
+          ],
+          [
+            62.8388515,
+            -32.1357333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9575923,
+            -32.2149333
+          ],
+          [
+            62.8388515,
+            -32.2149333
+          ],
+          [
+            62.9575923,
+            -32.2037333
+          ],
+          [
+            62.9575923,
+            -32.2149333
+          ],
+          [
+            62.8388515,
+            -32.2037333
+          ],
+          [
+            62.9575923,
+            -32.2037333
+          ],
+          [
+            62.8388515,
+            -32.2149333
+          ],
+          [
+            62.8388515,
+            -32.2037333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8727775,
+            -32.2376
+          ],
+          [
+            62.8388515,
+            -32.2376
+          ],
+          [
+            62.8727775,
+            -32.2264
+          ],
+          [
+            62.8727775,
+            -32.2376
+          ],
+          [
+            62.8388515,
+            -32.2264
+          ],
+          [
+            62.8727775,
+            -32.2264
+          ],
+          [
+            62.8388515,
+            -32.2376
+          ],
+          [
+            62.8388515,
+            -32.2264
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2602667
+          ],
+          [
+            62.8388515,
+            -32.2490667
+          ],
+          [
+            62.8388515,
+            -32.2490667
+          ],
+          [
+            62.9915182,
+            -32.2490667
+          ],
+          [
+            62.9915182,
+            -32.2490667
+          ],
+          [
+            62.9915182,
+            -32.2602667
+          ],
+          [
+            62.9915182,
+            -32.2602667
+          ],
+          [
+            62.8388515,
+            -32.2602667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9915182,
+            -32.2602667
+          ],
+          [
+            62.8388515,
+            -32.2602667
+          ],
+          [
+            62.9915182,
+            -32.2490667
+          ],
+          [
+            62.9915182,
+            -32.2602667
+          ],
+          [
+            62.8388515,
+            -32.2490667
+          ],
+          [
+            62.9915182,
+            -32.2490667
+          ],
+          [
+            62.8388515,
+            -32.2602667
+          ],
+          [
+            62.8388515,
+            -32.2490667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.8388515,
+              -32.1922666
+            ],
+            [
+              62.8388515,
+              -32.1357333
+            ],
+            [
+              62.8388515,
+              -32.1357333
+            ],
+            [
+              62.9915182,
+              -32.1357333
+            ],
+            [
+              62.9915182,
+              -32.1357333
+            ],
+            [
+              62.9915182,
+              -32.1696
+            ],
+            [
+              62.9915182,
+              -32.1696
+            ],
+            [
+              62.8897404,
+              -32.1696
+            ],
+            [
+              62.8897404,
+              -32.1696
+            ],
+            [
+              62.8897404,
+              -32.1922666
+            ],
+            [
+              62.8897404,
+              -32.1922666
+            ],
+            [
+              62.8388515,
+              -32.1922666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.8388515,
+              -32.2149333
+            ],
+            [
+              62.8388515,
+              -32.2037333
+            ],
+            [
+              62.8388515,
+              -32.2037333
+            ],
+            [
+              62.9575923,
+              -32.2037333
+            ],
+            [
+              62.9575923,
+              -32.2037333
+            ],
+            [
+              62.9575923,
+              -32.2149333
+            ],
+            [
+              62.9575923,
+              -32.2149333
+            ],
+            [
+              62.8388515,
+              -32.2149333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.8388515,
+              -32.2376
+            ],
+            [
+              62.8388515,
+              -32.2264
+            ],
+            [
+              62.8388515,
+              -32.2264
+            ],
+            [
+              62.8727775,
+              -32.2264
+            ],
+            [
+              62.8727775,
+              -32.2264
+            ],
+            [
+              62.8727775,
+              -32.2376
+            ],
+            [
+              62.8727775,
+              -32.2376
+            ],
+            [
+              62.8388515,
+              -32.2376
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.833333,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.1333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.833333,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.1333333
+            ]
+          ],
+          [
+            [
+              62.8897404,
+              -32.1922666
+            ],
+            [
+              62.8388515,
+              -32.1922666
+            ],
+            [
+              62.8897404,
+              -32.1696
+            ],
+            [
+              62.8897404,
+              -32.1922666
+            ],
+            [
+              62.9915182,
+              -32.1696
+            ],
+            [
+              62.8897404,
+              -32.1696
+            ],
+            [
+              62.9915182,
+              -32.1357333
+            ],
+            [
+              62.9915182,
+              -32.1696
+            ],
+            [
+              62.8388515,
+              -32.1357333
+            ],
+            [
+              62.9915182,
+              -32.1357333
+            ],
+            [
+              62.8388515,
+              -32.1922666
+            ],
+            [
+              62.8388515,
+              -32.1357333
+            ]
+          ],
+          [
+            [
+              62.9575923,
+              -32.2149333
+            ],
+            [
+              62.8388515,
+              -32.2149333
+            ],
+            [
+              62.9575923,
+              -32.2037333
+            ],
+            [
+              62.9575923,
+              -32.2149333
+            ],
+            [
+              62.8388515,
+              -32.2037333
+            ],
+            [
+              62.9575923,
+              -32.2037333
+            ],
+            [
+              62.8388515,
+              -32.2149333
+            ],
+            [
+              62.8388515,
+              -32.2037333
+            ]
+          ],
+          [
+            [
+              62.8727775,
+              -32.2376
+            ],
+            [
+              62.8388515,
+              -32.2376
+            ],
+            [
+              62.8727775,
+              -32.2264
+            ],
+            [
+              62.8727775,
+              -32.2376
+            ],
+            [
+              62.8388515,
+              -32.2264
+            ],
+            [
+              62.8727775,
+              -32.2264
+            ],
+            [
+              62.8388515,
+              -32.2376
+            ],
+            [
+              62.8388515,
+              -32.2264
+            ]
+          ],
+          [
+            [
+              62.9915182,
+              -32.2602667
+            ],
+            [
+              62.8388515,
+              -32.2602667
+            ],
+            [
+              62.9915182,
+              -32.2490667
+            ],
+            [
+              62.9915182,
+              -32.2602667
+            ],
+            [
+              62.8388515,
+              -32.2490667
+            ],
+            [
+              62.9915182,
+              -32.2490667
+            ],
+            [
+              62.8388515,
+              -32.2602667
+            ],
+            [
+              62.8388515,
+              -32.2490667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.833333,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.1333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.8388515,
+              -32.2602667
+            ],
+            [
+              62.8388515,
+              -32.2490667
+            ],
+            [
+              62.8388515,
+              -32.2490667
+            ],
+            [
+              62.9915182,
+              -32.2490667
+            ],
+            [
+              62.9915182,
+              -32.2490667
+            ],
+            [
+              62.9915182,
+              -32.2602667
+            ],
+            [
+              62.9915182,
+              -32.2602667
+            ],
+            [
+              62.8388515,
+              -32.2602667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.833333,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.1333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.833333,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.1333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DataCoverage",
+        "foid": "1810:1:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "maximumDisplayScale",
+            "Value": 22000
+          },
+          {
+            "Name": "minimumDisplayScale",
+            "Value": 180000
+          },
+          {
+            "Name": "optimumDisplayScale",
+            "Value": 45000
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.833333,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.1333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SoundingDatum",
+        "foid": "1810:3877773491:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 23
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.833333,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.1333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "VerticalDatumOfData",
+        "foid": "1810:3877745791:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 17
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.833333,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.1333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "QualityOfBathymetricData",
+        "foid": "1810:3:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfTemporalVariation",
+            "Value": 6
+          },
+          {
+            "Name": "dataAssessment",
+            "Value": 1
+          },
+          {
+            "Name": "featuresDetected",
+            "id": 3
+          },
+          {
+            "Name": "leastDepthOfDetectedFeaturesMeasured",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "significantFeaturesDetected",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "fullSeafloorCoverageAchieved",
+            "Value": 0
+          },
+          {
+            "Name": "surveyDateRange",
+            "id": 7
+          },
+          {
+            "Name": "dateEnd",
+            "parent": 7,
+            "Value": 20210101
+          },
+          {
+            "Name": "zoneOfConfidence",
+            "id": 9
+          },
+          {
+            "Name": "categoryOfZoneOfConfidenceInData",
+            "parent": 9,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.833333,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.1333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NavigationalSystemOfMarks",
+        "foid": "1810:4:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "marksNavigationalSystemOf",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8812589,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:10:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light C"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 8
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 2
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.833333,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.1333333
+            ],
+            [
+              62.9999997,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.3
+            ],
+            [
+              62.833333,
+              -32.1333333
+            ]
+          ],
+          [
+            [
+              62.8897404,
+              -32.1922666
+            ],
+            [
+              62.8388515,
+              -32.1922666
+            ],
+            [
+              62.8897404,
+              -32.1696
+            ],
+            [
+              62.8897404,
+              -32.1922666
+            ],
+            [
+              62.9915182,
+              -32.1696
+            ],
+            [
+              62.8897404,
+              -32.1696
+            ],
+            [
+              62.9915182,
+              -32.1357333
+            ],
+            [
+              62.9915182,
+              -32.1696
+            ],
+            [
+              62.8388515,
+              -32.1357333
+            ],
+            [
+              62.9915182,
+              -32.1357333
+            ],
+            [
+              62.8388515,
+              -32.1922666
+            ],
+            [
+              62.8388515,
+              -32.1357333
+            ]
+          ],
+          [
+            [
+              62.9575923,
+              -32.2149333
+            ],
+            [
+              62.8388515,
+              -32.2149333
+            ],
+            [
+              62.9575923,
+              -32.2037333
+            ],
+            [
+              62.9575923,
+              -32.2149333
+            ],
+            [
+              62.8388515,
+              -32.2037333
+            ],
+            [
+              62.9575923,
+              -32.2037333
+            ],
+            [
+              62.8388515,
+              -32.2149333
+            ],
+            [
+              62.8388515,
+              -32.2037333
+            ]
+          ],
+          [
+            [
+              62.8727775,
+              -32.2376
+            ],
+            [
+              62.8388515,
+              -32.2376
+            ],
+            [
+              62.8727775,
+              -32.2264
+            ],
+            [
+              62.8727775,
+              -32.2376
+            ],
+            [
+              62.8388515,
+              -32.2264
+            ],
+            [
+              62.8727775,
+              -32.2264
+            ],
+            [
+              62.8388515,
+              -32.2376
+            ],
+            [
+              62.8388515,
+              -32.2264
+            ]
+          ],
+          [
+            [
+              62.9915182,
+              -32.2602667
+            ],
+            [
+              62.8388515,
+              -32.2602667
+            ],
+            [
+              62.9915182,
+              -32.2490667
+            ],
+            [
+              62.9915182,
+              -32.2602667
+            ],
+            [
+              62.8388515,
+              -32.2490667
+            ],
+            [
+              62.9915182,
+              -32.2490667
+            ],
+            [
+              62.8388515,
+              -32.2602667
+            ],
+            [
+              62.8388515,
+              -32.2490667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:2:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 20
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 100
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9151849,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:14:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 6
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light E"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 7
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 1
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 5
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9491108,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:18:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 10
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light G"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 2
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 7
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:6:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light A"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8982219,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:12:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 5
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light D"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 8
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": "2,3"
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 8
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9321478,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:16:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 9
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light F"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 2
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 1
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 7
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:8:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 3
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light B"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 8
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 1
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9660738,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:20:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 11
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light H"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 1
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 8
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9151849,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:32:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light M"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 5
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 1
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9321478,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:34:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 3
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light N"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 11
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9491108,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:36:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light O"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 12
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": "K"
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9830367,
+          -32.1413333
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:22:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light I"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 4
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 1
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:24:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 3
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light J"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 4
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8812589,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:28:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 6
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light L"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 5
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:26:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light K"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 5
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 1
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8982219,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:30:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 5
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light L"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 5
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 4
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9915182,
+            -32.1357333
+          ],
+          [
+            62.9915182,
+            -32.1696
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:51:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9660738,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:38:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 5
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light P"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 13
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": 1
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.1866666
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:44:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 3
+          },
+          {
+            "Name": "language",
+            "parent": 3,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 3,
+            "Value": "Light S"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 6
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 6,
+            "Value": 28
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 6,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.1922666
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:55:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.1357333
+          ],
+          [
+            62.9915182,
+            -32.1357333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:50:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.1696
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:58:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9830367,
+          -32.164
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:40:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 3
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light Q"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 25
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": "6,1"
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8812589,
+          -32.1866666
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:46:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 3
+          },
+          {
+            "Name": "language",
+            "parent": 3,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 3,
+            "Value": "Light T"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 6
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 6,
+            "Value": 19
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 6,
+            "Value": "2,1"
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 6,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.8388515,
+              -32.1922666
+            ],
+            [
+              62.8388515,
+              -32.1357333
+            ],
+            [
+              62.8388515,
+              -32.1357333
+            ],
+            [
+              62.9915182,
+              -32.1357333
+            ],
+            [
+              62.9915182,
+              -32.1357333
+            ],
+            [
+              62.9915182,
+              -32.1696
+            ],
+            [
+              62.9915182,
+              -32.1696
+            ],
+            [
+              62.8897404,
+              -32.1696
+            ],
+            [
+              62.8897404,
+              -32.1696
+            ],
+            [
+              62.8897404,
+              -32.1922666
+            ],
+            [
+              62.8897404,
+              -32.1922666
+            ],
+            [
+              62.8388515,
+              -32.1922666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:48:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 0
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8897404,
+            -32.1696
+          ],
+          [
+            62.8897404,
+            -32.1922666
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:53:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9915182,
+            -32.1696
+          ],
+          [
+            62.8897404,
+            -32.1696
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:52:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8897404,
+            -32.1922666
+          ],
+          [
+            62.8388515,
+            -32.1922666
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:54:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.1866666
+        ]
+      },
+      "properties": {
+        "name": "LightAllAround",
+        "foid": "1810:42:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Light R"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 26
+          },
+          {
+            "Name": "signalGroup",
+            "parent": 5,
+            "Value": "6,1"
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.1922666
+          ],
+          [
+            62.8388515,
+            -32.1357333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:49:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.1357333
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:56:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.1357333
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:57:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8812589,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "LightSectored",
+        "foid": "1810:66:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Sector Light C"
+          },
+          {
+            "Name": "height",
+            "Value": 25
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 4
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 4,
+            "Value": 7
+          },
+          {
+            "Name": "lightSector",
+            "parent": 4,
+            "id": 6
+          },
+          {
+            "Name": "colour",
+            "parent": 6,
+            "Value": 3
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 6,
+            "id": 8
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 8,
+            "id": 9
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 9,
+            "Value": 60
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 8,
+            "id": 11
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 11,
+            "Value": 75
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 6,
+            "Value": 8
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 14
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 14,
+            "Value": 2
+          },
+          {
+            "Name": "lightSector",
+            "parent": 14,
+            "id": 16
+          },
+          {
+            "Name": "colour",
+            "parent": 16,
+            "Value": 4
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 16,
+            "id": 18
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 18,
+            "id": 19
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 19,
+            "Value": 75
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 18,
+            "id": 21
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 21,
+            "Value": 90
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 16,
+            "Value": 15
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 24
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 24,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 24,
+            "id": 26
+          },
+          {
+            "Name": "colour",
+            "parent": 26,
+            "Value": 1
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 26,
+            "id": 28
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 28,
+            "id": 29
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 29,
+            "Value": 90
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 28,
+            "id": 31
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 31,
+            "Value": 105
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 26,
+            "Value": 8
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2149333
+          ],
+          [
+            62.8388515,
+            -32.2037333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:77:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9575923,
+            -32.2037333
+          ],
+          [
+            62.9575923,
+            -32.2149333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:79:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2037333
+          ],
+          [
+            62.9575923,
+            -32.2037333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:78:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8897404,
+          -32.1696
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:59:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9575923,
+            -32.2149333
+          ],
+          [
+            62.8388515,
+            -32.2149333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:80:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8897404,
+          -32.1922666
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:60:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9151849,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "LightSectored",
+        "foid": "1810:70:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Sector Light E"
+          },
+          {
+            "Name": "height",
+            "Value": 25
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 4
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 4,
+            "Value": 4
+          },
+          {
+            "Name": "lightSector",
+            "parent": 4,
+            "id": 6
+          },
+          {
+            "Name": "colour",
+            "parent": 6,
+            "Value": 4
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 6,
+            "id": 8
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 8,
+            "id": 9
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 9,
+            "Value": 60
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 8,
+            "id": 11
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 11,
+            "Value": 75
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 6,
+            "Value": 15
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 14
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 14,
+            "Value": 13
+          },
+          {
+            "Name": "lightSector",
+            "parent": 14,
+            "id": 16
+          },
+          {
+            "Name": "colour",
+            "parent": 16,
+            "Value": 3
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 16,
+            "id": 18
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 18,
+            "id": 19
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 19,
+            "Value": 75
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 18,
+            "id": 21
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 21,
+            "Value": 90
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 16,
+            "Value": 8
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 24
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 24,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 24,
+            "id": 26
+          },
+          {
+            "Name": "colour",
+            "parent": 26,
+            "Value": 1
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 26,
+            "id": 28
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 28,
+            "id": 29
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 29,
+            "Value": 90
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 28,
+            "id": 31
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 31,
+            "Value": 105
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 26,
+            "Value": 15
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8982219,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "LightSectored",
+        "foid": "1810:68:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Sector Light D"
+          },
+          {
+            "Name": "height",
+            "Value": 25
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 4
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 4,
+            "Value": 1
+          },
+          {
+            "Name": "lightSector",
+            "parent": 4,
+            "id": 6
+          },
+          {
+            "Name": "colour",
+            "parent": 6,
+            "Value": 4
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 6,
+            "id": 8
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 8,
+            "id": 9
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 9,
+            "Value": 60
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 8,
+            "id": 11
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 11,
+            "Value": 75
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 6,
+            "Value": 12
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 14
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 14,
+            "Value": 7
+          },
+          {
+            "Name": "lightSector",
+            "parent": 14,
+            "id": 16
+          },
+          {
+            "Name": "colour",
+            "parent": 16,
+            "Value": 3
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 16,
+            "id": 18
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 18,
+            "id": 19
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 19,
+            "Value": 75
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 18,
+            "id": 21
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 21,
+            "Value": 90
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 16,
+            "Value": 15
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 24
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 24,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 24,
+            "id": 26
+          },
+          {
+            "Name": "colour",
+            "parent": 26,
+            "Value": 1
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 26,
+            "id": 28
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 28,
+            "id": 29
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 29,
+            "Value": 90
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 28,
+            "id": 31
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 31,
+            "Value": 105
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 26,
+            "Value": 8
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2149333
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:81:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2037333
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:82:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.8388515,
+              -32.2149333
+            ],
+            [
+              62.8388515,
+              -32.2037333
+            ],
+            [
+              62.8388515,
+              -32.2037333
+            ],
+            [
+              62.9575923,
+              -32.2037333
+            ],
+            [
+              62.9575923,
+              -32.2037333
+            ],
+            [
+              62.9575923,
+              -32.2149333
+            ],
+            [
+              62.9575923,
+              -32.2149333
+            ],
+            [
+              62.8388515,
+              -32.2149333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:76:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 0
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "LightSectored",
+        "foid": "1810:64:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Sector Light B"
+          },
+          {
+            "Name": "height",
+            "Value": 25
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 4
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 4,
+            "Value": 1
+          },
+          {
+            "Name": "lightSector",
+            "parent": 4,
+            "id": 6
+          },
+          {
+            "Name": "colour",
+            "parent": 6,
+            "Value": 3
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 6,
+            "id": 8
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 8,
+            "id": 9
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 9,
+            "Value": 60
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 8,
+            "id": 11
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 11,
+            "Value": 75
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 6,
+            "Value": 8
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 14
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 14,
+            "Value": 2
+          },
+          {
+            "Name": "lightSector",
+            "parent": 14,
+            "id": 16
+          },
+          {
+            "Name": "colour",
+            "parent": 16,
+            "Value": 4
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 16,
+            "id": 18
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 18,
+            "id": 19
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 19,
+            "Value": 75
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 18,
+            "id": 21
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 21,
+            "Value": 90
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 16,
+            "Value": 8
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 24
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 24,
+            "Value": 4
+          },
+          {
+            "Name": "lightSector",
+            "parent": 24,
+            "id": 26
+          },
+          {
+            "Name": "colour",
+            "parent": 26,
+            "Value": 1
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 26,
+            "id": 28
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 28,
+            "id": 29
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 29,
+            "Value": 90
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 28,
+            "id": 31
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 31,
+            "Value": 105
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 26,
+            "Value": 8
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9321478,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "LightSectored",
+        "foid": "1810:72:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Sector Light F"
+          },
+          {
+            "Name": "height",
+            "Value": 25
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 4
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 4,
+            "Value": 4
+          },
+          {
+            "Name": "lightSector",
+            "parent": 4,
+            "id": 6
+          },
+          {
+            "Name": "colour",
+            "parent": 6,
+            "Value": 6
+          },
+          {
+            "Name": "lightVisibility",
+            "parent": 6,
+            "Value": 8
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 6,
+            "id": 9
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 9,
+            "id": 10
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 10,
+            "Value": 60
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 9,
+            "id": 12
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 12,
+            "Value": 75
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 6,
+            "Value": 6
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 15
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 15,
+            "Value": 13
+          },
+          {
+            "Name": "lightSector",
+            "parent": 15,
+            "id": 17
+          },
+          {
+            "Name": "colour",
+            "parent": 17,
+            "Value": 3
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 17,
+            "id": 19
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 19,
+            "id": 20
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 20,
+            "Value": 75
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 19,
+            "id": 22
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 22,
+            "Value": 90
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 17,
+            "Value": 15
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 25
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 25,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 25,
+            "id": 27
+          },
+          {
+            "Name": "colour",
+            "parent": 27,
+            "Value": 1
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 27,
+            "id": 29
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 29,
+            "id": 30
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 30,
+            "Value": 90
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 29,
+            "id": 32
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 32,
+            "Value": 105
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 27,
+            "Value": 15
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "LightSectored",
+        "foid": "1810:62:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Sector Light A"
+          },
+          {
+            "Name": "height",
+            "Value": 25
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 4
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 4,
+            "Value": 1
+          },
+          {
+            "Name": "lightSector",
+            "parent": 4,
+            "id": 6
+          },
+          {
+            "Name": "colour",
+            "parent": 6,
+            "Value": 4
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 6,
+            "id": 8
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 8,
+            "id": 9
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 9,
+            "Value": 15
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 8,
+            "id": 11
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 11,
+            "Value": 30
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 6,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 4,
+            "id": 14
+          },
+          {
+            "Name": "colour",
+            "parent": 14,
+            "Value": 3
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 14,
+            "id": 16
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 16,
+            "id": 17
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 17,
+            "Value": 30
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 16,
+            "id": 19
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 19,
+            "Value": 45
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 14,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 4,
+            "id": 22
+          },
+          {
+            "Name": "colour",
+            "parent": 22,
+            "Value": 4
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 22,
+            "id": 24
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 24,
+            "id": 25
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 25,
+            "Value": 45
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 24,
+            "id": 27
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 27,
+            "Value": 60
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 22,
+            "Value": 8
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 30
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 30,
+            "Value": 1
+          },
+          {
+            "Name": "lightSector",
+            "parent": 30,
+            "id": 32
+          },
+          {
+            "Name": "colour",
+            "parent": 32,
+            "Value": 4
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 32,
+            "id": 34
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 34,
+            "id": 35
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 35,
+            "Value": 15
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 34,
+            "id": 37
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 37,
+            "Value": 30
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 32,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 30,
+            "id": 40
+          },
+          {
+            "Name": "colour",
+            "parent": 40,
+            "Value": 3
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 40,
+            "id": 42
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 42,
+            "id": 43
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 43,
+            "Value": 30
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 42,
+            "id": 45
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 45,
+            "Value": 45
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 40,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 30,
+            "id": 48
+          },
+          {
+            "Name": "colour",
+            "parent": 48,
+            "Value": 4
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 48,
+            "id": 50
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 50,
+            "id": 51
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 51,
+            "Value": 45
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 50,
+            "id": 53
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 53,
+            "Value": 60
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 48,
+            "Value": 8
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 56
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 56,
+            "Value": 1
+          },
+          {
+            "Name": "lightSector",
+            "parent": 56,
+            "id": 58
+          },
+          {
+            "Name": "colour",
+            "parent": 58,
+            "Value": 4
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 58,
+            "id": 60
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 60,
+            "id": 61
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 61,
+            "Value": 15
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 60,
+            "id": 63
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 63,
+            "Value": 30
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 58,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 56,
+            "id": 66
+          },
+          {
+            "Name": "colour",
+            "parent": 66,
+            "Value": 3
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 66,
+            "id": 68
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 68,
+            "id": 69
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 69,
+            "Value": 30
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 68,
+            "id": 71
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 71,
+            "Value": 45
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 66,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 56,
+            "id": 74
+          },
+          {
+            "Name": "colour",
+            "parent": 74,
+            "Value": 4
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 74,
+            "id": 76
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 76,
+            "id": 77
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 77,
+            "Value": 45
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 76,
+            "id": 79
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 79,
+            "Value": 60
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 74,
+            "Value": 8
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9491108,
+          -32.2093333
+        ]
+      },
+      "properties": {
+        "name": "LightSectored",
+        "foid": "1810:74:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Sector Light G"
+          },
+          {
+            "Name": "height",
+            "Value": 25
+          },
+          {
+            "Name": "sectorCharacteristics",
+            "id": 4
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 4,
+            "Value": 1
+          },
+          {
+            "Name": "lightSector",
+            "parent": 4,
+            "id": 6
+          },
+          {
+            "Name": "colour",
+            "parent": 6,
+            "Value": 3
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 6,
+            "id": 8
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 8,
+            "id": 9
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 9,
+            "Value": 15
+          },
+          {
+            "Name": "sectorLineLength",
+            "parent": 9,
+            "Value": 5
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 8,
+            "id": 12
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 12,
+            "Value": 30
+          },
+          {
+            "Name": "sectorLineLength",
+            "parent": 12,
+            "Value": 5
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 6,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 4,
+            "id": 16
+          },
+          {
+            "Name": "colour",
+            "parent": 16,
+            "Value": 1
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 16,
+            "id": 18
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 18,
+            "id": 19
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 19,
+            "Value": 30
+          },
+          {
+            "Name": "sectorLineLength",
+            "parent": 19,
+            "Value": 10
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 18,
+            "id": 22
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 22,
+            "Value": 45
+          },
+          {
+            "Name": "sectorLineLength",
+            "parent": 22,
+            "Value": 10
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 16,
+            "Value": 8
+          },
+          {
+            "Name": "lightSector",
+            "parent": 4,
+            "id": 26
+          },
+          {
+            "Name": "colour",
+            "parent": 26,
+            "Value": 4
+          },
+          {
+            "Name": "sectorLimit",
+            "parent": 26,
+            "id": 28
+          },
+          {
+            "Name": "sectorLimitOne",
+            "parent": 28,
+            "id": 29
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 29,
+            "Value": 45
+          },
+          {
+            "Name": "sectorLineLength",
+            "parent": 29,
+            "Value": 5
+          },
+          {
+            "Name": "sectorLimitTwo",
+            "parent": 28,
+            "id": 32
+          },
+          {
+            "Name": "sectorBearing",
+            "parent": 32,
+            "Value": 60
+          },
+          {
+            "Name": "sectorLineLength",
+            "parent": 32,
+            "Value": 5
+          },
+          {
+            "Name": "valueOfNominalRange",
+            "parent": 26,
+            "Value": 8
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.8388515,
+              -32.2376
+            ],
+            [
+              62.8388515,
+              -32.2264
+            ],
+            [
+              62.8388515,
+              -32.2264
+            ],
+            [
+              62.8727775,
+              -32.2264
+            ],
+            [
+              62.8727775,
+              -32.2264
+            ],
+            [
+              62.8727775,
+              -32.2376
+            ],
+            [
+              62.8727775,
+              -32.2376
+            ],
+            [
+              62.8388515,
+              -32.2376
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:90:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 0
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.232
+        ]
+      },
+      "properties": {
+        "name": "LightFogDetector",
+        "foid": "1810:86:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 3
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Red Radio Fog Light"
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 4
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 4,
+            "Value": 1
+          },
+          {
+            "Name": "signalGeneration",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9575923,
+          -32.2149333
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:84:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2376
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:95:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.232
+        ]
+      },
+      "properties": {
+        "name": "LightFogDetector",
+        "foid": "1810:88:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 3
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Red Radio Fog Light"
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 4
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 4,
+            "Value": 2
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 4,
+            "Value": 3
+          },
+          {
+            "Name": "signalGeneration",
+            "Value": 6
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8727775,
+            -32.2264
+          ],
+          [
+            62.8727775,
+            -32.2376
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:93:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8727775,
+          -32.2376
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:98:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.864296,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "LightAirObstruction",
+        "foid": "1810:102:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Aero FL.W.50m 6M"
+          },
+          {
+            "Name": "lightVisibility",
+            "Value": 1
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 2
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2376
+          ],
+          [
+            62.8388515,
+            -32.2264
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:91:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2264
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:96:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8727775,
+          -32.2264
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:97:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.847333,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "LightAirObstruction",
+        "foid": "1810:100:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 3
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Aero Light Fixed Red"
+          },
+          {
+            "Name": "lightVisibility",
+            "Value": 1
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2264
+          ],
+          [
+            62.8727775,
+            -32.2264
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:92:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9575923,
+          -32.2037333
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:83:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8727775,
+            -32.2376
+          ],
+          [
+            62.8388515,
+            -32.2376
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:94:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8812589,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "LightAirObstruction",
+        "foid": "1810:104:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 5
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Aero Light Long Flashing Blue"
+          },
+          {
+            "Name": "lightVisibility",
+            "Value": 1
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 5
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2490667
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:124:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9151849,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "LightAirObstruction",
+        "foid": "1810:108:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Aero Light isophased Green"
+          },
+          {
+            "Name": "lightVisibility",
+            "Value": 1
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 7
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 6
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8982219,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "LightAirObstruction",
+        "foid": "1810:106:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 6
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Aero Light Quick Flashing Yellow"
+          },
+          {
+            "Name": "lightVisibility",
+            "Value": 1
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 4
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9660738,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "LightAirObstruction",
+        "foid": "1810:114:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Aero Light Flashing White"
+          },
+          {
+            "Name": "lightVisibility",
+            "Value": 3
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 8
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9915182,
+            -32.2490667
+          ],
+          [
+            62.9915182,
+            -32.2602667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:121:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9491108,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "LightAirObstruction",
+        "foid": "1810:112:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 3
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Aero Light fixed flashing red"
+          },
+          {
+            "Name": "lightVisibility",
+            "Value": 2
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 13
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 6
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2602667
+          ],
+          [
+            62.8388515,
+            -32.2490667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:119:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8388515,
+          -32.2602667
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:123:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.2490667
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:125:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9830367,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "LightAirObstruction",
+        "foid": "1810:116:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Aero Light Faint general"
+          },
+          {
+            "Name": "height",
+            "Value": 54
+          },
+          {
+            "Name": "lightVisibility",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.9915182,
+            -32.2602667
+          ],
+          [
+            62.8388515,
+            -32.2602667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:122:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9321478,
+          -32.2546667
+        ]
+      },
+      "properties": {
+        "name": "LightAirObstruction",
+        "foid": "1810:110:19",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "colour",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Aero Light occulting Red"
+          },
+          {
+            "Name": "lightVisibility",
+            "Value": 1
+          },
+          {
+            "Name": "rhythmOfLight",
+            "id": 5
+          },
+          {
+            "Name": "lightCharacteristic",
+            "parent": 5,
+            "Value": 8
+          },
+          {
+            "Name": "signalPeriod",
+            "parent": 5,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.8388515,
+              -32.2602667
+            ],
+            [
+              62.8388515,
+              -32.2490667
+            ],
+            [
+              62.8388515,
+              -32.2490667
+            ],
+            [
+              62.9915182,
+              -32.2490667
+            ],
+            [
+              62.9915182,
+              -32.2490667
+            ],
+            [
+              62.9915182,
+              -32.2602667
+            ],
+            [
+              62.9915182,
+              -32.2602667
+            ],
+            [
+              62.8388515,
+              -32.2602667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:118:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 0
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.8388515,
+            -32.2490667
+          ],
+          [
+            62.9915182,
+            -32.2490667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:120:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9915182,
+          -32.2602667
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:126:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.8812589,
+          -32.1866666
+        ]
+      },
+      "properties": {
+        "name": "Building",
+        "foid": "1810:218046269:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "buildingShape",
+            "Value": 7
+          },
+          {
+            "Name": "status",
+            "Value": 12
+          },
+          {
+            "Name": "inTheWater",
+            "Value": 1
+          }
+        ]
+      }
+    }
+  ]
+}

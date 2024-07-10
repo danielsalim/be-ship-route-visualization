@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "GATCON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 3782, "PRIM": 3, "GRUP": 2, "OBJL": 61, "RVER": 1, "AGEN": 550, "FIDN": 58086791, "FIDS": 12345, "LNAM": "0226037655873039", "CATGAT": 4, "SORDAT": "20140823", "SORIND": "US,US,graph,GC-11682" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.4017672, 47.2691752 ], [ -122.401716, 47.2692116 ], [ -122.4017267, 47.2692183 ], [ -122.4021772, 47.2695 ], [ -122.4022176, 47.2694708 ], [ -122.4022261, 47.2694646 ], [ -122.4017672, 47.2691752 ] ] ] } }
+]
+}

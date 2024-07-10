@@ -1,0 +1,8965 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0224815,
+          -32.4434185
+        ]
+      },
+      "properties": {
+        "name": "P11065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3600973
+        ]
+      },
+      "properties": {
+        "name": "P110116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.3745215
+        ]
+      },
+      "properties": {
+        "name": "P11016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0479259,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "P11077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.4177943
+        ]
+      },
+      "properties": {
+        "name": "P11054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4322185
+        ]
+      },
+      "properties": {
+        "name": "P11064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4001458
+        ]
+      },
+      "properties": {
+        "name": "P11018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0818519,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "P11078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0648889,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "P11079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "P11080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.030963,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "P11081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0988148,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "P11082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1157778,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "P11083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0648889,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "P11084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0818519,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "P11085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1327408,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "P11086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.41457
+        ]
+      },
+      "properties": {
+        "name": "P11036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0988148,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "P11087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "P11088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1157778,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "P11089"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1497037,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "P11090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1327408,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "P11091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.030963,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "P11092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0479259,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "P11093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1497037,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "P11094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "P11095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1157778,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "P11096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1327408,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "P11097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0648889,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "P11098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1497037,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "P11099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0479259,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "P110100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.030963,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "P110101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0818519,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "P110102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0988148,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "P110103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.351273
+        ]
+      },
+      "properties": {
+        "name": "P110104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.030963,
+          -32.351273
+        ]
+      },
+      "properties": {
+        "name": "P110105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4289943
+        ]
+      },
+      "properties": {
+        "name": "P11051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4177943
+        ]
+      },
+      "properties": {
+        "name": "P11057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3024003
+        ]
+      },
+      "properties": {
+        "name": "P110110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.3424488
+        ]
+      },
+      "properties": {
+        "name": "P110111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.3857215
+        ]
+      },
+      "properties": {
+        "name": "P11011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.356873
+        ]
+      },
+      "properties": {
+        "name": "P110112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.3945458
+        ]
+      },
+      "properties": {
+        "name": "P11028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.030963,
+          -32.3945458
+        ]
+      },
+      "properties": {
+        "name": "P11029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.40337
+        ]
+      },
+      "properties": {
+        "name": "P11038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.4233943
+        ]
+      },
+      "properties": {
+        "name": "P11039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.40897
+        ]
+      },
+      "properties": {
+        "name": "P11042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.41457
+        ]
+      },
+      "properties": {
+        "name": "P11043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.40337
+        ]
+      },
+      "properties": {
+        "name": "P11044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0733704,
+          -32.3600973
+        ]
+      },
+      "properties": {
+        "name": "P1101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1581852,
+          -32.3424488
+        ]
+      },
+      "properties": {
+        "name": "P110108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.356873
+        ]
+      },
+      "properties": {
+        "name": "P110109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.4378185
+        ]
+      },
+      "properties": {
+        "name": "P11059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0648889,
+          -32.4233943
+        ]
+      },
+      "properties": {
+        "name": "P11061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4434185
+        ]
+      },
+      "properties": {
+        "name": "P11062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1581852,
+          -32.3024003
+        ]
+      },
+      "properties": {
+        "name": "P110113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.3889458
+        ]
+      },
+      "properties": {
+        "name": "P11024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3745215
+        ]
+      },
+      "properties": {
+        "name": "P11015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3712973
+        ]
+      },
+      "properties": {
+        "name": "P110119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3889458
+        ]
+      },
+      "properties": {
+        "name": "P11022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0479259,
+          -32.3945458
+        ]
+      },
+      "properties": {
+        "name": "P11023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.4001458
+        ]
+      },
+      "properties": {
+        "name": "P11041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.4289943
+        ]
+      },
+      "properties": {
+        "name": "P11053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0733704,
+          -32.3712973
+        ]
+      },
+      "properties": {
+        "name": "P1103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0224815,
+          -32.4322185
+        ]
+      },
+      "properties": {
+        "name": "P11063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3857215
+        ]
+      },
+      "properties": {
+        "name": "P11014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.023963,
+          -32.3841215
+        ]
+      },
+      "properties": {
+        "name": "P1102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.007,
+          -32.3841215
+        ]
+      },
+      "properties": {
+        "name": "P1104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0748519,
+          -32.3841215
+        ]
+      },
+      "properties": {
+        "name": "P1105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0918148,
+          -32.3841215
+        ]
+      },
+      "properties": {
+        "name": "P1106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0409259,
+          -32.3841215
+        ]
+      },
+      "properties": {
+        "name": "P1107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0578889,
+          -32.3841215
+        ]
+      },
+      "properties": {
+        "name": "P1108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.3745215
+        ]
+      },
+      "properties": {
+        "name": "P1109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.3857215
+        ]
+      },
+      "properties": {
+        "name": "P11010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3857215
+        ]
+      },
+      "properties": {
+        "name": "P11012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3745215
+        ]
+      },
+      "properties": {
+        "name": "P11013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0578889,
+          -32.3985458
+        ]
+      },
+      "properties": {
+        "name": "P11017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.3889458
+        ]
+      },
+      "properties": {
+        "name": "P11019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.4001458
+        ]
+      },
+      "properties": {
+        "name": "P11020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4001458
+        ]
+      },
+      "properties": {
+        "name": "P11021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3889458
+        ]
+      },
+      "properties": {
+        "name": "P11025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0748519,
+          -32.3985458
+        ]
+      },
+      "properties": {
+        "name": "P11026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0918148,
+          -32.3985458
+        ]
+      },
+      "properties": {
+        "name": "P11027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.40337
+        ]
+      },
+      "properties": {
+        "name": "P11030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.41457
+        ]
+      },
+      "properties": {
+        "name": "P11031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.023963,
+          -32.4273943
+        ]
+      },
+      "properties": {
+        "name": "P11032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.037963,
+          -32.4193943
+        ]
+      },
+      "properties": {
+        "name": "P11033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.41457
+        ]
+      },
+      "properties": {
+        "name": "P11034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.40337
+        ]
+      },
+      "properties": {
+        "name": "P11035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.023963,
+          -32.41297
+        ]
+      },
+      "properties": {
+        "name": "P11037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0409259,
+          -32.4273943
+        ]
+      },
+      "properties": {
+        "name": "P11040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4289943
+        ]
+      },
+      "properties": {
+        "name": "P11045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4177943
+        ]
+      },
+      "properties": {
+        "name": "P11046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.4177943
+        ]
+      },
+      "properties": {
+        "name": "P11047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.4289943
+        ]
+      },
+      "properties": {
+        "name": "P11048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4434185
+        ]
+      },
+      "properties": {
+        "name": "P11049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4322185
+        ]
+      },
+      "properties": {
+        "name": "P11050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0224815,
+          -32.4322185
+        ]
+      },
+      "properties": {
+        "name": "P11052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0748519,
+          -32.4273943
+        ]
+      },
+      "properties": {
+        "name": "P11055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0888519,
+          -32.4193943
+        ]
+      },
+      "properties": {
+        "name": "P11056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0918148,
+          -32.4273943
+        ]
+      },
+      "properties": {
+        "name": "P11058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0224815,
+          -32.4434185
+        ]
+      },
+      "properties": {
+        "name": "P11060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62,
+          -32.3000003
+        ]
+      },
+      "properties": {
+        "name": "P11066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.356873
+        ]
+      },
+      "properties": {
+        "name": "P11067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.356873
+        ]
+      },
+      "properties": {
+        "name": "P11068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.3424488
+        ]
+      },
+      "properties": {
+        "name": "P11069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1581852,
+          -32.3424488
+        ]
+      },
+      "properties": {
+        "name": "P11070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1581852,
+          -32.3024003
+        ]
+      },
+      "properties": {
+        "name": "P11071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3024003
+        ]
+      },
+      "properties": {
+        "name": "P11072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0733704,
+          -32.3712973
+        ]
+      },
+      "properties": {
+        "name": "P11073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3712973
+        ]
+      },
+      "properties": {
+        "name": "P11074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0733704,
+          -32.3600973
+        ]
+      },
+      "properties": {
+        "name": "P11075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3600973
+        ]
+      },
+      "properties": {
+        "name": "P11076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.007,
+          -32.3696973
+        ]
+      },
+      "properties": {
+        "name": "P110106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.021,
+          -32.3616973
+        ]
+      },
+      "properties": {
+        "name": "P110107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.023963,
+          -32.3696973
+        ]
+      },
+      "properties": {
+        "name": "P110114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.037963,
+          -32.3616973
+        ]
+      },
+      "properties": {
+        "name": "P110115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0578889,
+          -32.3696973
+        ]
+      },
+      "properties": {
+        "name": "P110117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0718889,
+          -32.3616973
+        ]
+      },
+      "properties": {
+        "name": "P110118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0409259,
+          -32.3696973
+        ]
+      },
+      "properties": {
+        "name": "P110120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0549259,
+          -32.3616973
+        ]
+      },
+      "properties": {
+        "name": "P110121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62,
+            -32.3000003
+          ],
+          [
+            62.1666667,
+            -32.3000003
+          ],
+          [
+            62.1666667,
+            -32.466667
+          ],
+          [
+            62,
+            -32.466667
+          ],
+          [
+            62,
+            -32.3000003
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1581852,
+            -32.3424488
+          ],
+          [
+            62.0394445,
+            -32.3424488
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0578889,
+            -32.3696973
+          ],
+          [
+            62.0718889,
+            -32.3616973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0578889,
+            -32.3985458
+          ],
+          [
+            62.0578889,
+            -32.3905458
+          ],
+          [
+            62.0718889,
+            -32.3905458
+          ],
+          [
+            62.0718889,
+            -32.3985458
+          ],
+          [
+            62.0578889,
+            -32.3985458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3712973
+          ],
+          [
+            62.0055185,
+            -32.3600973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0748519,
+            -32.3985458
+          ],
+          [
+            62.0748519,
+            -32.3905458
+          ],
+          [
+            62.0888519,
+            -32.3905458
+          ],
+          [
+            62.0888519,
+            -32.3985458
+          ],
+          [
+            62.0748519,
+            -32.3985458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.023963,
+            -32.4273943
+          ],
+          [
+            62.037963,
+            -32.4193943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0394445,
+            -32.41457
+          ],
+          [
+            62.0055185,
+            -32.41457
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.4177943
+          ],
+          [
+            62.1072963,
+            -32.4289943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0748519,
+            -32.4273943
+          ],
+          [
+            62.0888519,
+            -32.4193943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0748519,
+            -32.3841215
+          ],
+          [
+            62.0748519,
+            -32.3761215
+          ],
+          [
+            62.0888519,
+            -32.3761215
+          ],
+          [
+            62.0888519,
+            -32.3841215
+          ],
+          [
+            62.0748519,
+            -32.3841215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0224815,
+            -32.4322185
+          ],
+          [
+            62.0224815,
+            -32.4434185
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.3745215
+          ],
+          [
+            62.1072963,
+            -32.3857215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3745215
+          ],
+          [
+            62.1072963,
+            -32.3745215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1581852,
+            -32.3024003
+          ],
+          [
+            62.1581852,
+            -32.3424488
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0733704,
+            -32.3712973
+          ],
+          [
+            62.0055185,
+            -32.3712973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.3889458
+          ],
+          [
+            62.1072963,
+            -32.4001458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4001458
+          ],
+          [
+            62.0055185,
+            -32.3889458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0918148,
+            -32.3985458
+          ],
+          [
+            62.0918148,
+            -32.3905458
+          ],
+          [
+            62.1058148,
+            -32.3905458
+          ],
+          [
+            62.1058148,
+            -32.3985458
+          ],
+          [
+            62.0918148,
+            -32.3985458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.41457
+          ],
+          [
+            62.0055185,
+            -32.40337
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.023963,
+            -32.41297
+          ],
+          [
+            62.023963,
+            -32.40497
+          ],
+          [
+            62.037963,
+            -32.40497
+          ],
+          [
+            62.037963,
+            -32.41297
+          ],
+          [
+            62.023963,
+            -32.41297
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.4289943
+          ],
+          [
+            62.0055185,
+            -32.4289943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4322185
+          ],
+          [
+            62.0224815,
+            -32.4322185
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.007,
+            -32.3696973
+          ],
+          [
+            62.021,
+            -32.3616973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0918148,
+            -32.3841215
+          ],
+          [
+            62.0918148,
+            -32.3761215
+          ],
+          [
+            62.1058148,
+            -32.3761215
+          ],
+          [
+            62.1058148,
+            -32.3841215
+          ],
+          [
+            62.0918148,
+            -32.3841215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0918148,
+            -32.4273943
+          ],
+          [
+            62.0918148,
+            -32.4193943
+          ],
+          [
+            62.1058148,
+            -32.4193943
+          ],
+          [
+            62.1058148,
+            -32.4273943
+          ],
+          [
+            62.0918148,
+            -32.4273943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0224815,
+            -32.4434185
+          ],
+          [
+            62.0055185,
+            -32.4434185
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3857215
+          ],
+          [
+            62.0055185,
+            -32.3745215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0394445,
+            -32.356873
+          ],
+          [
+            62.0055185,
+            -32.356873
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3024003
+          ],
+          [
+            62.1581852,
+            -32.3024003
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0733704,
+            -32.3600973
+          ],
+          [
+            62.0733704,
+            -32.3712973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.4001458
+          ],
+          [
+            62.0055185,
+            -32.4001458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.40337
+          ],
+          [
+            62.0394445,
+            -32.40337
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0409259,
+            -32.4273943
+          ],
+          [
+            62.0409259,
+            -32.4193943
+          ],
+          [
+            62.0549259,
+            -32.4193943
+          ],
+          [
+            62.0549259,
+            -32.4273943
+          ],
+          [
+            62.0409259,
+            -32.4273943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4289943
+          ],
+          [
+            62.0055185,
+            -32.4177943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.023963,
+            -32.3841215
+          ],
+          [
+            62.023963,
+            -32.3761215
+          ],
+          [
+            62.037963,
+            -32.3761215
+          ],
+          [
+            62.037963,
+            -32.3841215
+          ],
+          [
+            62.023963,
+            -32.3841215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0409259,
+            -32.3841215
+          ],
+          [
+            62.0409259,
+            -32.3761215
+          ],
+          [
+            62.0549259,
+            -32.3761215
+          ],
+          [
+            62.0549259,
+            -32.3841215
+          ],
+          [
+            62.0409259,
+            -32.3841215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.3857215
+          ],
+          [
+            62.0055185,
+            -32.3857215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.023963,
+            -32.3696973
+          ],
+          [
+            62.037963,
+            -32.3616973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3889458
+          ],
+          [
+            62.1072963,
+            -32.3889458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0394445,
+            -32.3424488
+          ],
+          [
+            62.0394445,
+            -32.356873
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.356873
+          ],
+          [
+            62.0055185,
+            -32.3024003
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3600973
+          ],
+          [
+            62.0733704,
+            -32.3600973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0409259,
+            -32.3696973
+          ],
+          [
+            62.0549259,
+            -32.3616973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0394445,
+            -32.40337
+          ],
+          [
+            62.0394445,
+            -32.41457
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4177943
+          ],
+          [
+            62.1072963,
+            -32.4177943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4434185
+          ],
+          [
+            62.0055185,
+            -32.4322185
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.007,
+            -32.3841215
+          ],
+          [
+            62.007,
+            -32.3761215
+          ],
+          [
+            62.021,
+            -32.3761215
+          ],
+          [
+            62.021,
+            -32.3841215
+          ],
+          [
+            62.007,
+            -32.3841215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0578889,
+            -32.3841215
+          ],
+          [
+            62.0578889,
+            -32.3761215
+          ],
+          [
+            62.0718889,
+            -32.3761215
+          ],
+          [
+            62.0718889,
+            -32.3841215
+          ],
+          [
+            62.0578889,
+            -32.3841215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3712973
+          ],
+          [
+            62.0055185,
+            -32.3600973
+          ],
+          [
+            62.0055185,
+            -32.3600973
+          ],
+          [
+            62.0733704,
+            -32.3600973
+          ],
+          [
+            62.0733704,
+            -32.3600973
+          ],
+          [
+            62.0733704,
+            -32.3712973
+          ],
+          [
+            62.0733704,
+            -32.3712973
+          ],
+          [
+            62.0055185,
+            -32.3712973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0394445,
+            -32.356873
+          ],
+          [
+            62.0055185,
+            -32.356873
+          ],
+          [
+            62.0394445,
+            -32.3424488
+          ],
+          [
+            62.0394445,
+            -32.356873
+          ],
+          [
+            62.1581852,
+            -32.3424488
+          ],
+          [
+            62.0394445,
+            -32.3424488
+          ],
+          [
+            62.1581852,
+            -32.3024003
+          ],
+          [
+            62.1581852,
+            -32.3424488
+          ],
+          [
+            62.0055185,
+            -32.3024003
+          ],
+          [
+            62.1581852,
+            -32.3024003
+          ],
+          [
+            62.0055185,
+            -32.356873
+          ],
+          [
+            62.0055185,
+            -32.3024003
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0394445,
+            -32.41457
+          ],
+          [
+            62.0055185,
+            -32.41457
+          ],
+          [
+            62.0394445,
+            -32.40337
+          ],
+          [
+            62.0394445,
+            -32.41457
+          ],
+          [
+            62.0055185,
+            -32.40337
+          ],
+          [
+            62.0394445,
+            -32.40337
+          ],
+          [
+            62.0055185,
+            -32.41457
+          ],
+          [
+            62.0055185,
+            -32.40337
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.4289943
+          ],
+          [
+            62.0055185,
+            -32.4289943
+          ],
+          [
+            62.1072963,
+            -32.4177943
+          ],
+          [
+            62.1072963,
+            -32.4289943
+          ],
+          [
+            62.0055185,
+            -32.4177943
+          ],
+          [
+            62.1072963,
+            -32.4177943
+          ],
+          [
+            62.0055185,
+            -32.4289943
+          ],
+          [
+            62.0055185,
+            -32.4177943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0733704,
+            -32.3712973
+          ],
+          [
+            62.0055185,
+            -32.3712973
+          ],
+          [
+            62.0733704,
+            -32.3600973
+          ],
+          [
+            62.0733704,
+            -32.3712973
+          ],
+          [
+            62.0055185,
+            -32.3600973
+          ],
+          [
+            62.0733704,
+            -32.3600973
+          ],
+          [
+            62.0055185,
+            -32.3712973
+          ],
+          [
+            62.0055185,
+            -32.3600973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4001458
+          ],
+          [
+            62.0055185,
+            -32.3889458
+          ],
+          [
+            62.0055185,
+            -32.3889458
+          ],
+          [
+            62.1072963,
+            -32.3889458
+          ],
+          [
+            62.1072963,
+            -32.3889458
+          ],
+          [
+            62.1072963,
+            -32.4001458
+          ],
+          [
+            62.1072963,
+            -32.4001458
+          ],
+          [
+            62.0055185,
+            -32.4001458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.41457
+          ],
+          [
+            62.0055185,
+            -32.40337
+          ],
+          [
+            62.0055185,
+            -32.40337
+          ],
+          [
+            62.0394445,
+            -32.40337
+          ],
+          [
+            62.0394445,
+            -32.40337
+          ],
+          [
+            62.0394445,
+            -32.41457
+          ],
+          [
+            62.0394445,
+            -32.41457
+          ],
+          [
+            62.0055185,
+            -32.41457
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0224815,
+            -32.4434185
+          ],
+          [
+            62.0055185,
+            -32.4434185
+          ],
+          [
+            62.0224815,
+            -32.4322185
+          ],
+          [
+            62.0224815,
+            -32.4434185
+          ],
+          [
+            62.0055185,
+            -32.4322185
+          ],
+          [
+            62.0224815,
+            -32.4322185
+          ],
+          [
+            62.0055185,
+            -32.4434185
+          ],
+          [
+            62.0055185,
+            -32.4322185
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.3857215
+          ],
+          [
+            62.0055185,
+            -32.3857215
+          ],
+          [
+            62.1072963,
+            -32.3745215
+          ],
+          [
+            62.1072963,
+            -32.3857215
+          ],
+          [
+            62.0055185,
+            -32.3745215
+          ],
+          [
+            62.1072963,
+            -32.3745215
+          ],
+          [
+            62.0055185,
+            -32.3857215
+          ],
+          [
+            62.0055185,
+            -32.3745215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4289943
+          ],
+          [
+            62.0055185,
+            -32.4177943
+          ],
+          [
+            62.0055185,
+            -32.4177943
+          ],
+          [
+            62.1072963,
+            -32.4177943
+          ],
+          [
+            62.1072963,
+            -32.4177943
+          ],
+          [
+            62.1072963,
+            -32.4289943
+          ],
+          [
+            62.1072963,
+            -32.4289943
+          ],
+          [
+            62.0055185,
+            -32.4289943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4434185
+          ],
+          [
+            62.0055185,
+            -32.4322185
+          ],
+          [
+            62.0055185,
+            -32.4322185
+          ],
+          [
+            62.0224815,
+            -32.4322185
+          ],
+          [
+            62.0224815,
+            -32.4322185
+          ],
+          [
+            62.0224815,
+            -32.4434185
+          ],
+          [
+            62.0224815,
+            -32.4434185
+          ],
+          [
+            62.0055185,
+            -32.4434185
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.4001458
+          ],
+          [
+            62.0055185,
+            -32.4001458
+          ],
+          [
+            62.1072963,
+            -32.3889458
+          ],
+          [
+            62.1072963,
+            -32.4001458
+          ],
+          [
+            62.0055185,
+            -32.3889458
+          ],
+          [
+            62.1072963,
+            -32.3889458
+          ],
+          [
+            62.0055185,
+            -32.4001458
+          ],
+          [
+            62.0055185,
+            -32.3889458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.356873
+          ],
+          [
+            62.0055185,
+            -32.3024003
+          ],
+          [
+            62.0055185,
+            -32.3024003
+          ],
+          [
+            62.1581852,
+            -32.3024003
+          ],
+          [
+            62.1581852,
+            -32.3024003
+          ],
+          [
+            62.1581852,
+            -32.3424488
+          ],
+          [
+            62.1581852,
+            -32.3424488
+          ],
+          [
+            62.0394445,
+            -32.3424488
+          ],
+          [
+            62.0394445,
+            -32.3424488
+          ],
+          [
+            62.0394445,
+            -32.356873
+          ],
+          [
+            62.0394445,
+            -32.356873
+          ],
+          [
+            62.0055185,
+            -32.356873
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12513"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3857215
+          ],
+          [
+            62.0055185,
+            -32.3745215
+          ],
+          [
+            62.0055185,
+            -32.3745215
+          ],
+          [
+            62.1072963,
+            -32.3745215
+          ],
+          [
+            62.1072963,
+            -32.3745215
+          ],
+          [
+            62.1072963,
+            -32.3857215
+          ],
+          [
+            62.1072963,
+            -32.3857215
+          ],
+          [
+            62.0055185,
+            -32.3857215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.3712973
+            ],
+            [
+              62.0055185,
+              -32.3600973
+            ],
+            [
+              62.0055185,
+              -32.3600973
+            ],
+            [
+              62.0733704,
+              -32.3600973
+            ],
+            [
+              62.0733704,
+              -32.3600973
+            ],
+            [
+              62.0733704,
+              -32.3712973
+            ],
+            [
+              62.0733704,
+              -32.3712973
+            ],
+            [
+              62.0055185,
+              -32.3712973
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.466667
+            ],
+            [
+              62,
+              -32.466667
+            ],
+            [
+              62,
+              -32.3000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.007,
+              -32.3841215
+            ],
+            [
+              62.007,
+              -32.3761215
+            ],
+            [
+              62.021,
+              -32.3761215
+            ],
+            [
+              62.021,
+              -32.3841215
+            ],
+            [
+              62.007,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0578889,
+              -32.3841215
+            ],
+            [
+              62.0578889,
+              -32.3761215
+            ],
+            [
+              62.0718889,
+              -32.3761215
+            ],
+            [
+              62.0718889,
+              -32.3841215
+            ],
+            [
+              62.0578889,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.466667
+            ],
+            [
+              62,
+              -32.466667
+            ],
+            [
+              62,
+              -32.3000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0578889,
+              -32.3985458
+            ],
+            [
+              62.0578889,
+              -32.3905458
+            ],
+            [
+              62.0718889,
+              -32.3905458
+            ],
+            [
+              62.0718889,
+              -32.3985458
+            ],
+            [
+              62.0578889,
+              -32.3985458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0748519,
+              -32.3985458
+            ],
+            [
+              62.0748519,
+              -32.3905458
+            ],
+            [
+              62.0888519,
+              -32.3905458
+            ],
+            [
+              62.0888519,
+              -32.3985458
+            ],
+            [
+              62.0748519,
+              -32.3985458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.4001458
+            ],
+            [
+              62.0055185,
+              -32.3889458
+            ],
+            [
+              62.0055185,
+              -32.3889458
+            ],
+            [
+              62.1072963,
+              -32.3889458
+            ],
+            [
+              62.1072963,
+              -32.3889458
+            ],
+            [
+              62.1072963,
+              -32.4001458
+            ],
+            [
+              62.1072963,
+              -32.4001458
+            ],
+            [
+              62.0055185,
+              -32.4001458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.466667
+            ],
+            [
+              62,
+              -32.466667
+            ],
+            [
+              62,
+              -32.3000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.41457
+            ],
+            [
+              62.0055185,
+              -32.40337
+            ],
+            [
+              62.0055185,
+              -32.40337
+            ],
+            [
+              62.0394445,
+              -32.40337
+            ],
+            [
+              62.0394445,
+              -32.40337
+            ],
+            [
+              62.0394445,
+              -32.41457
+            ],
+            [
+              62.0394445,
+              -32.41457
+            ],
+            [
+              62.0055185,
+              -32.41457
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0748519,
+              -32.3841215
+            ],
+            [
+              62.0748519,
+              -32.3761215
+            ],
+            [
+              62.0888519,
+              -32.3761215
+            ],
+            [
+              62.0888519,
+              -32.3841215
+            ],
+            [
+              62.0748519,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0918148,
+              -32.3985458
+            ],
+            [
+              62.0918148,
+              -32.3905458
+            ],
+            [
+              62.1058148,
+              -32.3905458
+            ],
+            [
+              62.1058148,
+              -32.3985458
+            ],
+            [
+              62.0918148,
+              -32.3985458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.023963,
+              -32.41297
+            ],
+            [
+              62.023963,
+              -32.40497
+            ],
+            [
+              62.037963,
+              -32.40497
+            ],
+            [
+              62.037963,
+              -32.41297
+            ],
+            [
+              62.023963,
+              -32.41297
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.4289943
+            ],
+            [
+              62.0055185,
+              -32.4177943
+            ],
+            [
+              62.0055185,
+              -32.4177943
+            ],
+            [
+              62.1072963,
+              -32.4177943
+            ],
+            [
+              62.1072963,
+              -32.4177943
+            ],
+            [
+              62.1072963,
+              -32.4289943
+            ],
+            [
+              62.1072963,
+              -32.4289943
+            ],
+            [
+              62.0055185,
+              -32.4289943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0918148,
+              -32.3841215
+            ],
+            [
+              62.0918148,
+              -32.3761215
+            ],
+            [
+              62.1058148,
+              -32.3761215
+            ],
+            [
+              62.1058148,
+              -32.3841215
+            ],
+            [
+              62.0918148,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0918148,
+              -32.4273943
+            ],
+            [
+              62.0918148,
+              -32.4193943
+            ],
+            [
+              62.1058148,
+              -32.4193943
+            ],
+            [
+              62.1058148,
+              -32.4273943
+            ],
+            [
+              62.0918148,
+              -32.4273943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.4434185
+            ],
+            [
+              62.0055185,
+              -32.4322185
+            ],
+            [
+              62.0055185,
+              -32.4322185
+            ],
+            [
+              62.0224815,
+              -32.4322185
+            ],
+            [
+              62.0224815,
+              -32.4322185
+            ],
+            [
+              62.0224815,
+              -32.4434185
+            ],
+            [
+              62.0224815,
+              -32.4434185
+            ],
+            [
+              62.0055185,
+              -32.4434185
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.466667
+            ],
+            [
+              62,
+              -32.466667
+            ],
+            [
+              62,
+              -32.3000003
+            ]
+          ],
+          [
+            [
+              62.0394445,
+              -32.356873
+            ],
+            [
+              62.0055185,
+              -32.356873
+            ],
+            [
+              62.0394445,
+              -32.3424488
+            ],
+            [
+              62.0394445,
+              -32.356873
+            ],
+            [
+              62.1581852,
+              -32.3424488
+            ],
+            [
+              62.0394445,
+              -32.3424488
+            ],
+            [
+              62.1581852,
+              -32.3024003
+            ],
+            [
+              62.1581852,
+              -32.3424488
+            ],
+            [
+              62.0055185,
+              -32.3024003
+            ],
+            [
+              62.1581852,
+              -32.3024003
+            ],
+            [
+              62.0055185,
+              -32.356873
+            ],
+            [
+              62.0055185,
+              -32.3024003
+            ]
+          ],
+          [
+            [
+              62.0733704,
+              -32.3712973
+            ],
+            [
+              62.0055185,
+              -32.3712973
+            ],
+            [
+              62.0733704,
+              -32.3600973
+            ],
+            [
+              62.0733704,
+              -32.3712973
+            ],
+            [
+              62.0055185,
+              -32.3600973
+            ],
+            [
+              62.0733704,
+              -32.3600973
+            ],
+            [
+              62.0055185,
+              -32.3712973
+            ],
+            [
+              62.0055185,
+              -32.3600973
+            ]
+          ],
+          [
+            [
+              62.1072963,
+              -32.3857215
+            ],
+            [
+              62.0055185,
+              -32.3857215
+            ],
+            [
+              62.1072963,
+              -32.3745215
+            ],
+            [
+              62.1072963,
+              -32.3857215
+            ],
+            [
+              62.0055185,
+              -32.3745215
+            ],
+            [
+              62.1072963,
+              -32.3745215
+            ],
+            [
+              62.0055185,
+              -32.3857215
+            ],
+            [
+              62.0055185,
+              -32.3745215
+            ]
+          ],
+          [
+            [
+              62.1072963,
+              -32.4001458
+            ],
+            [
+              62.0055185,
+              -32.4001458
+            ],
+            [
+              62.1072963,
+              -32.3889458
+            ],
+            [
+              62.1072963,
+              -32.4001458
+            ],
+            [
+              62.0055185,
+              -32.3889458
+            ],
+            [
+              62.1072963,
+              -32.3889458
+            ],
+            [
+              62.0055185,
+              -32.4001458
+            ],
+            [
+              62.0055185,
+              -32.3889458
+            ]
+          ],
+          [
+            [
+              62.0394445,
+              -32.41457
+            ],
+            [
+              62.0055185,
+              -32.41457
+            ],
+            [
+              62.0394445,
+              -32.40337
+            ],
+            [
+              62.0394445,
+              -32.41457
+            ],
+            [
+              62.0055185,
+              -32.40337
+            ],
+            [
+              62.0394445,
+              -32.40337
+            ],
+            [
+              62.0055185,
+              -32.41457
+            ],
+            [
+              62.0055185,
+              -32.40337
+            ]
+          ],
+          [
+            [
+              62.1072963,
+              -32.4289943
+            ],
+            [
+              62.0055185,
+              -32.4289943
+            ],
+            [
+              62.1072963,
+              -32.4177943
+            ],
+            [
+              62.1072963,
+              -32.4289943
+            ],
+            [
+              62.0055185,
+              -32.4177943
+            ],
+            [
+              62.1072963,
+              -32.4177943
+            ],
+            [
+              62.0055185,
+              -32.4289943
+            ],
+            [
+              62.0055185,
+              -32.4177943
+            ]
+          ],
+          [
+            [
+              62.0224815,
+              -32.4434185
+            ],
+            [
+              62.0055185,
+              -32.4434185
+            ],
+            [
+              62.0224815,
+              -32.4322185
+            ],
+            [
+              62.0224815,
+              -32.4434185
+            ],
+            [
+              62.0055185,
+              -32.4322185
+            ],
+            [
+              62.0224815,
+              -32.4322185
+            ],
+            [
+              62.0055185,
+              -32.4434185
+            ],
+            [
+              62.0055185,
+              -32.4322185
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0409259,
+              -32.4273943
+            ],
+            [
+              62.0409259,
+              -32.4193943
+            ],
+            [
+              62.0549259,
+              -32.4193943
+            ],
+            [
+              62.0549259,
+              -32.4273943
+            ],
+            [
+              62.0409259,
+              -32.4273943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.356873
+            ],
+            [
+              62.0055185,
+              -32.3024003
+            ],
+            [
+              62.0055185,
+              -32.3024003
+            ],
+            [
+              62.1581852,
+              -32.3024003
+            ],
+            [
+              62.1581852,
+              -32.3024003
+            ],
+            [
+              62.1581852,
+              -32.3424488
+            ],
+            [
+              62.1581852,
+              -32.3424488
+            ],
+            [
+              62.0394445,
+              -32.3424488
+            ],
+            [
+              62.0394445,
+              -32.3424488
+            ],
+            [
+              62.0394445,
+              -32.356873
+            ],
+            [
+              62.0394445,
+              -32.356873
+            ],
+            [
+              62.0055185,
+              -32.356873
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.023963,
+              -32.3841215
+            ],
+            [
+              62.023963,
+              -32.3761215
+            ],
+            [
+              62.037963,
+              -32.3761215
+            ],
+            [
+              62.037963,
+              -32.3841215
+            ],
+            [
+              62.023963,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0409259,
+              -32.3841215
+            ],
+            [
+              62.0409259,
+              -32.3761215
+            ],
+            [
+              62.0549259,
+              -32.3761215
+            ],
+            [
+              62.0549259,
+              -32.3841215
+            ],
+            [
+              62.0409259,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.3857215
+            ],
+            [
+              62.0055185,
+              -32.3745215
+            ],
+            [
+              62.0055185,
+              -32.3745215
+            ],
+            [
+              62.1072963,
+              -32.3745215
+            ],
+            [
+              62.1072963,
+              -32.3745215
+            ],
+            [
+              62.1072963,
+              -32.3857215
+            ],
+            [
+              62.1072963,
+              -32.3857215
+            ],
+            [
+              62.0055185,
+              -32.3857215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.466667
+            ],
+            [
+              62,
+              -32.466667
+            ],
+            [
+              62,
+              -32.3000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DataCoverage",
+        "foid": "1810:1:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "maximumDisplayScale",
+            "Value": 22000
+          },
+          {
+            "Name": "minimumDisplayScale",
+            "Value": 180000
+          },
+          {
+            "Name": "optimumDisplayScale",
+            "Value": 22000
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.466667
+            ],
+            [
+              62,
+              -32.466667
+            ],
+            [
+              62,
+              -32.3000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SoundingDatum",
+        "foid": "1810:3877773491:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 23
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.466667
+            ],
+            [
+              62,
+              -32.466667
+            ],
+            [
+              62,
+              -32.3000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "VerticalDatumOfData",
+        "foid": "1810:3877745791:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 17
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.466667
+            ],
+            [
+              62,
+              -32.466667
+            ],
+            [
+              62,
+              -32.3000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "QualityOfBathymetricData",
+        "foid": "1810:3:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfTemporalVariation",
+            "Value": 6
+          },
+          {
+            "Name": "dataAssessment",
+            "Value": 1
+          },
+          {
+            "Name": "featuresDetected",
+            "id": 3
+          },
+          {
+            "Name": "leastDepthOfDetectedFeaturesMeasured",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "significantFeaturesDetected",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "fullSeafloorCoverageAchieved",
+            "Value": 0
+          },
+          {
+            "Name": "surveyDateRange",
+            "id": 7
+          },
+          {
+            "Name": "dateEnd",
+            "parent": 7,
+            "Value": 20210101
+          },
+          {
+            "Name": "zoneOfConfidence",
+            "id": 9
+          },
+          {
+            "Name": "categoryOfZoneOfConfidenceInData",
+            "parent": 9,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.466667
+            ],
+            [
+              62,
+              -32.466667
+            ],
+            [
+              62,
+              -32.3000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NavigationalSystemOfMarks",
+        "foid": "1810:4:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "marksNavigationalSystemOf",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0733704,
+          -32.3600973
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:93:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.023963,
+              -32.3841215
+            ],
+            [
+              62.023963,
+              -32.3761215
+            ],
+            [
+              62.037963,
+              -32.3761215
+            ],
+            [
+              62.037963,
+              -32.3841215
+            ],
+            [
+              62.023963,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:98:12",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 14
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0733704,
+          -32.3712973
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:94:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.007,
+              -32.3841215
+            ],
+            [
+              62.007,
+              -32.3761215
+            ],
+            [
+              62.021,
+              -32.3761215
+            ],
+            [
+              62.021,
+              -32.3841215
+            ],
+            [
+              62.007,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:96:12",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0748519,
+              -32.3841215
+            ],
+            [
+              62.0748519,
+              -32.3761215
+            ],
+            [
+              62.0888519,
+              -32.3761215
+            ],
+            [
+              62.0888519,
+              -32.3841215
+            ],
+            [
+              62.0748519,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:104:12",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 9
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0918148,
+              -32.3841215
+            ],
+            [
+              62.0918148,
+              -32.3761215
+            ],
+            [
+              62.1058148,
+              -32.3761215
+            ],
+            [
+              62.1058148,
+              -32.3841215
+            ],
+            [
+              62.0918148,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:106:12",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 14
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0409259,
+              -32.3841215
+            ],
+            [
+              62.0409259,
+              -32.3761215
+            ],
+            [
+              62.0549259,
+              -32.3761215
+            ],
+            [
+              62.0549259,
+              -32.3841215
+            ],
+            [
+              62.0409259,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:100:12",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 4
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 1
+          },
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 4
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 4,
+            "Value": 17
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 4,
+            "Value": 4
+          },
+          {
+            "Name": "waterLevelEffect",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0578889,
+              -32.3841215
+            ],
+            [
+              62.0578889,
+              -32.3761215
+            ],
+            [
+              62.0718889,
+              -32.3761215
+            ],
+            [
+              62.0718889,
+              -32.3841215
+            ],
+            [
+              62.0578889,
+              -32.3841215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:102:12",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 4
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.3745215
+          ],
+          [
+            62.1072963,
+            -32.3857215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:111:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.3857215
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:116:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3857215
+          ],
+          [
+            62.0055185,
+            -32.3745215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:109:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.3857215
+          ],
+          [
+            62.0055185,
+            -32.3857215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:112:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.3857215
+            ],
+            [
+              62.0055185,
+              -32.3745215
+            ],
+            [
+              62.0055185,
+              -32.3745215
+            ],
+            [
+              62.1072963,
+              -32.3745215
+            ],
+            [
+              62.1072963,
+              -32.3745215
+            ],
+            [
+              62.1072963,
+              -32.3857215
+            ],
+            [
+              62.1072963,
+              -32.3857215
+            ],
+            [
+              62.0055185,
+              -32.3857215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:108:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 0
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3857215
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:113:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3745215
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:114:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3745215
+          ],
+          [
+            62.1072963,
+            -32.3745215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:110:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.3745215
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:115:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0578889,
+              -32.3985458
+            ],
+            [
+              62.0578889,
+              -32.3905458
+            ],
+            [
+              62.0718889,
+              -32.3905458
+            ],
+            [
+              62.0718889,
+              -32.3985458
+            ],
+            [
+              62.0578889,
+              -32.3985458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WeedKelp",
+        "foid": "1810:124:12",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfWeedKelp",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Sargasso"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4001458
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:135:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.3889458
+          ],
+          [
+            62.1072963,
+            -32.4001458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:133:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.4001458
+          ],
+          [
+            62.0055185,
+            -32.4001458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:134:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3889458
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:136:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0479259,
+          -32.3945458
+        ]
+      },
+      "properties": {
+        "name": "WeedKelp",
+        "foid": "1810:122:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfWeedKelp",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Sargasso"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.3889458
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:137:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3889458
+          ],
+          [
+            62.1072963,
+            -32.3889458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:132:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0748519,
+              -32.3985458
+            ],
+            [
+              62.0748519,
+              -32.3905458
+            ],
+            [
+              62.0888519,
+              -32.3905458
+            ],
+            [
+              62.0888519,
+              -32.3985458
+            ],
+            [
+              62.0748519,
+              -32.3985458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WeedKelp",
+        "foid": "1810:126:12",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfWeedKelp",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Sargasso"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.4001458
+            ],
+            [
+              62.0055185,
+              -32.3889458
+            ],
+            [
+              62.0055185,
+              -32.3889458
+            ],
+            [
+              62.1072963,
+              -32.3889458
+            ],
+            [
+              62.1072963,
+              -32.3889458
+            ],
+            [
+              62.1072963,
+              -32.4001458
+            ],
+            [
+              62.1072963,
+              -32.4001458
+            ],
+            [
+              62.0055185,
+              -32.4001458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:130:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 0
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0918148,
+              -32.3985458
+            ],
+            [
+              62.0918148,
+              -32.3905458
+            ],
+            [
+              62.1058148,
+              -32.3905458
+            ],
+            [
+              62.1058148,
+              -32.3985458
+            ],
+            [
+              62.0918148,
+              -32.3985458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WeedKelp",
+        "foid": "1810:128:12",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfWeedKelp",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Sargasso"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.3945458
+        ]
+      },
+      "properties": {
+        "name": "WeedKelp",
+        "foid": "1810:118:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfWeedKelp",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Kelp"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.030963,
+          -32.3945458
+        ]
+      },
+      "properties": {
+        "name": "WeedKelp",
+        "foid": "1810:120:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfWeedKelp",
+            "Value": 2
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Seaweed"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4001458
+          ],
+          [
+            62.0055185,
+            -32.3889458
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:131:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0394445,
+            -32.40337
+          ],
+          [
+            62.0394445,
+            -32.41457
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:147:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.023963,
+            -32.4273943
+          ],
+          [
+            62.037963,
+            -32.4193943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sandwave",
+        "foid": "1810:156:12",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "verticalLength",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.41457
+            ],
+            [
+              62.0055185,
+              -32.40337
+            ],
+            [
+              62.0055185,
+              -32.40337
+            ],
+            [
+              62.0394445,
+              -32.40337
+            ],
+            [
+              62.0394445,
+              -32.40337
+            ],
+            [
+              62.0394445,
+              -32.41457
+            ],
+            [
+              62.0394445,
+              -32.41457
+            ],
+            [
+              62.0055185,
+              -32.41457
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:144:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 0
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.41457
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:152:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.023963,
+              -32.41297
+            ],
+            [
+              62.023963,
+              -32.40497
+            ],
+            [
+              62.037963,
+              -32.40497
+            ],
+            [
+              62.037963,
+              -32.41297
+            ],
+            [
+              62.023963,
+              -32.41297
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Seagrass",
+        "foid": "1810:142:12",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Seagrass"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.40337
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:151:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.4233943
+        ]
+      },
+      "properties": {
+        "name": "Sandwave",
+        "foid": "1810:154:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "verticalLength",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0409259,
+              -32.4273943
+            ],
+            [
+              62.0409259,
+              -32.4193943
+            ],
+            [
+              62.0549259,
+              -32.4193943
+            ],
+            [
+              62.0549259,
+              -32.4273943
+            ],
+            [
+              62.0409259,
+              -32.4273943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sandwave",
+        "foid": "1810:158:12",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalLength",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.4001458
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:138:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.41457
+          ],
+          [
+            62.0055185,
+            -32.40337
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:145:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0394445,
+            -32.41457
+          ],
+          [
+            62.0055185,
+            -32.41457
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:148:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.40337
+          ],
+          [
+            62.0394445,
+            -32.40337
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:146:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.40897
+        ]
+      },
+      "properties": {
+        "name": "Seagrass",
+        "foid": "1810:140:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Seagrass"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.41457
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:149:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.40337
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:150:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.4289943
+            ],
+            [
+              62.0055185,
+              -32.4177943
+            ],
+            [
+              62.0055185,
+              -32.4177943
+            ],
+            [
+              62.1072963,
+              -32.4177943
+            ],
+            [
+              62.1072963,
+              -32.4177943
+            ],
+            [
+              62.1072963,
+              -32.4289943
+            ],
+            [
+              62.1072963,
+              -32.4289943
+            ],
+            [
+              62.0055185,
+              -32.4289943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:166:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 0
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4289943
+          ],
+          [
+            62.0055185,
+            -32.4177943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:167:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4434185
+          ],
+          [
+            62.0055185,
+            -32.4322185
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:179:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4177943
+          ],
+          [
+            62.1072963,
+            -32.4177943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:168:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4289943
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:171:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.4322185
+          ],
+          [
+            62.0224815,
+            -32.4322185
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:180:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.4177943
+          ],
+          [
+            62.1072963,
+            -32.4289943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:169:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.4289943
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:174:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1072963,
+            -32.4289943
+          ],
+          [
+            62.0055185,
+            -32.4289943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:170:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1072963,
+          -32.4177943
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:173:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0748519,
+            -32.4273943
+          ],
+          [
+            62.0888519,
+            -32.4193943
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sandwave",
+        "foid": "1810:162:12",
+        "prim": "Curve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4177943
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:172:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0918148,
+              -32.4273943
+            ],
+            [
+              62.0918148,
+              -32.4193943
+            ],
+            [
+              62.1058148,
+              -32.4193943
+            ],
+            [
+              62.1058148,
+              -32.4273943
+            ],
+            [
+              62.0918148,
+              -32.4273943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sandwave",
+        "foid": "1810:164:12",
+        "prim": "Surface"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.4378185
+        ]
+      },
+      "properties": {
+        "name": "Spring",
+        "foid": "1810:176:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Spring in Seabed"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.4434185
+            ],
+            [
+              62.0055185,
+              -32.4322185
+            ],
+            [
+              62.0055185,
+              -32.4322185
+            ],
+            [
+              62.0224815,
+              -32.4322185
+            ],
+            [
+              62.0224815,
+              -32.4322185
+            ],
+            [
+              62.0224815,
+              -32.4434185
+            ],
+            [
+              62.0224815,
+              -32.4434185
+            ],
+            [
+              62.0055185,
+              -32.4434185
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:178:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 0
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0648889,
+          -32.4233943
+        ]
+      },
+      "properties": {
+        "name": "Sandwave",
+        "foid": "1810:160:12",
+        "prim": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4434185
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:183:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0224815,
+            -32.4434185
+          ],
+          [
+            62.0055185,
+            -32.4434185
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:182:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0224815,
+          -32.4322185
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:185:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0224815,
+            -32.4322185
+          ],
+          [
+            62.0224815,
+            -32.4434185
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:181:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.4322185
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:184:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0224815,
+          -32.4434185
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:186:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.3000003
+            ],
+            [
+              62.1666667,
+              -32.466667
+            ],
+            [
+              62,
+              -32.466667
+            ],
+            [
+              62,
+              -32.3000003
+            ]
+          ],
+          [
+            [
+              62.0394445,
+              -32.356873
+            ],
+            [
+              62.0055185,
+              -32.356873
+            ],
+            [
+              62.0394445,
+              -32.3424488
+            ],
+            [
+              62.0394445,
+              -32.356873
+            ],
+            [
+              62.1581852,
+              -32.3424488
+            ],
+            [
+              62.0394445,
+              -32.3424488
+            ],
+            [
+              62.1581852,
+              -32.3024003
+            ],
+            [
+              62.1581852,
+              -32.3424488
+            ],
+            [
+              62.0055185,
+              -32.3024003
+            ],
+            [
+              62.1581852,
+              -32.3024003
+            ],
+            [
+              62.0055185,
+              -32.356873
+            ],
+            [
+              62.0055185,
+              -32.3024003
+            ]
+          ],
+          [
+            [
+              62.0733704,
+              -32.3712973
+            ],
+            [
+              62.0055185,
+              -32.3712973
+            ],
+            [
+              62.0733704,
+              -32.3600973
+            ],
+            [
+              62.0733704,
+              -32.3712973
+            ],
+            [
+              62.0055185,
+              -32.3600973
+            ],
+            [
+              62.0733704,
+              -32.3600973
+            ],
+            [
+              62.0055185,
+              -32.3712973
+            ],
+            [
+              62.0055185,
+              -32.3600973
+            ]
+          ],
+          [
+            [
+              62.1072963,
+              -32.3857215
+            ],
+            [
+              62.0055185,
+              -32.3857215
+            ],
+            [
+              62.1072963,
+              -32.3745215
+            ],
+            [
+              62.1072963,
+              -32.3857215
+            ],
+            [
+              62.0055185,
+              -32.3745215
+            ],
+            [
+              62.1072963,
+              -32.3745215
+            ],
+            [
+              62.0055185,
+              -32.3857215
+            ],
+            [
+              62.0055185,
+              -32.3745215
+            ]
+          ],
+          [
+            [
+              62.1072963,
+              -32.4001458
+            ],
+            [
+              62.0055185,
+              -32.4001458
+            ],
+            [
+              62.1072963,
+              -32.3889458
+            ],
+            [
+              62.1072963,
+              -32.4001458
+            ],
+            [
+              62.0055185,
+              -32.3889458
+            ],
+            [
+              62.1072963,
+              -32.3889458
+            ],
+            [
+              62.0055185,
+              -32.4001458
+            ],
+            [
+              62.0055185,
+              -32.3889458
+            ]
+          ],
+          [
+            [
+              62.0394445,
+              -32.41457
+            ],
+            [
+              62.0055185,
+              -32.41457
+            ],
+            [
+              62.0394445,
+              -32.40337
+            ],
+            [
+              62.0394445,
+              -32.41457
+            ],
+            [
+              62.0055185,
+              -32.40337
+            ],
+            [
+              62.0394445,
+              -32.40337
+            ],
+            [
+              62.0055185,
+              -32.41457
+            ],
+            [
+              62.0055185,
+              -32.40337
+            ]
+          ],
+          [
+            [
+              62.1072963,
+              -32.4289943
+            ],
+            [
+              62.0055185,
+              -32.4289943
+            ],
+            [
+              62.1072963,
+              -32.4177943
+            ],
+            [
+              62.1072963,
+              -32.4289943
+            ],
+            [
+              62.0055185,
+              -32.4177943
+            ],
+            [
+              62.1072963,
+              -32.4177943
+            ],
+            [
+              62.0055185,
+              -32.4289943
+            ],
+            [
+              62.0055185,
+              -32.4177943
+            ]
+          ],
+          [
+            [
+              62.0224815,
+              -32.4434185
+            ],
+            [
+              62.0055185,
+              -32.4434185
+            ],
+            [
+              62.0224815,
+              -32.4322185
+            ],
+            [
+              62.0224815,
+              -32.4434185
+            ],
+            [
+              62.0055185,
+              -32.4322185
+            ],
+            [
+              62.0224815,
+              -32.4322185
+            ],
+            [
+              62.0055185,
+              -32.4434185
+            ],
+            [
+              62.0055185,
+              -32.4322185
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:2:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 20
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 100
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0479259,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:10:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0818519,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:14:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0648889,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:12:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:6:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.030963,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:8:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0988148,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:16:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 6
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1157778,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:36:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 9
+          },
+          {
+            "Name": "waterLevelEffect",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0648889,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:30:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 18
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0818519,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:32:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 9
+          },
+          {
+            "Name": "waterLevelEffect",
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1327408,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:38:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 4
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0988148,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:34:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 9
+          },
+          {
+            "Name": "waterLevelEffect",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:42:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 4
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1157778,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:18:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 7
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1497037,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:22:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1327408,
+          -32.3080003
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:20:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 8
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.030963,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:26:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 14
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0479259,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:28:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 17
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1497037,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:40:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 4
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.3224245
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:24:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 11
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1157778,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:54:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 5
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 8
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1327408,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:56:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 5
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0648889,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:48:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 1
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1497037,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:58:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 4
+          },
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 3
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 3,
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0479259,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:46:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 17
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.030963,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:44:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 14
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0818519,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:50:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 2
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 6
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0988148,
+          -32.3368488
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:52:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 3
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 7
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.014,
+          -32.351273
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:60:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 10
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.030963,
+          -32.351273
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:62:12",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 4
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 1,
+            "Value": 1
+          },
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 4
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 4,
+            "Value": 1
+          },
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 6
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 6,
+            "Value": 17
+          },
+          {
+            "Name": "natureOfSurfaceQualifyingTerms",
+            "parent": 6,
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.356873
+            ],
+            [
+              62.0055185,
+              -32.3024003
+            ],
+            [
+              62.0055185,
+              -32.3024003
+            ],
+            [
+              62.1581852,
+              -32.3024003
+            ],
+            [
+              62.1581852,
+              -32.3024003
+            ],
+            [
+              62.1581852,
+              -32.3424488
+            ],
+            [
+              62.1581852,
+              -32.3424488
+            ],
+            [
+              62.0394445,
+              -32.3424488
+            ],
+            [
+              62.0394445,
+              -32.3424488
+            ],
+            [
+              62.0394445,
+              -32.356873
+            ],
+            [
+              62.0394445,
+              -32.356873
+            ],
+            [
+              62.0055185,
+              -32.356873
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:64:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 0
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1581852,
+            -32.3024003
+          ],
+          [
+            62.1581852,
+            -32.3424488
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:67:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.1581852,
+            -32.3424488
+          ],
+          [
+            62.0394445,
+            -32.3424488
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:68:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.007,
+            -32.3696973
+          ],
+          [
+            62.021,
+            -32.3616973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:78:12",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1581852,
+          -32.3424488
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:74:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.356873
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:76:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0394445,
+            -32.3424488
+          ],
+          [
+            62.0394445,
+            -32.356873
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:69:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3024003
+          ],
+          [
+            62.1581852,
+            -32.3024003
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:66:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0394445,
+            -32.356873
+          ],
+          [
+            62.0055185,
+            -32.356873
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:70:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3024003
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:72:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0394445,
+          -32.3424488
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:75:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.356873
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:71:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.356873
+          ],
+          [
+            62.0055185,
+            -32.3024003
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:65:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1581852,
+          -32.3024003
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:73:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.023963,
+            -32.3696973
+          ],
+          [
+            62.037963,
+            -32.3616973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:80:12",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 14
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0733704,
+            -32.3600973
+          ],
+          [
+            62.0733704,
+            -32.3712973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:89:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3600973
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:92:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62.0055185,
+              -32.3712973
+            ],
+            [
+              62.0055185,
+              -32.3600973
+            ],
+            [
+              62.0055185,
+              -32.3600973
+            ],
+            [
+              62.0733704,
+              -32.3600973
+            ],
+            [
+              62.0733704,
+              -32.3600973
+            ],
+            [
+              62.0733704,
+              -32.3712973
+            ],
+            [
+              62.0733704,
+              -32.3712973
+            ],
+            [
+              62.0055185,
+              -32.3712973
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:86:2",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 0
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0578889,
+            -32.3696973
+          ],
+          [
+            62.0718889,
+            -32.3616973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:84:12",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 14
+          },
+          {
+            "Name": "waterLevelEffect",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3600973
+          ],
+          [
+            62.0733704,
+            -32.3600973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:88:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0733704,
+            -32.3712973
+          ],
+          [
+            62.0055185,
+            -32.3712973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:90:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0055185,
+          -32.3712973
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:91:2",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0409259,
+            -32.3696973
+          ],
+          [
+            62.0549259,
+            -32.3616973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeabedArea",
+        "foid": "1810:82:12",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "surfaceCharacteristics",
+            "id": 1
+          },
+          {
+            "Name": "natureOfSurface",
+            "parent": 1,
+            "Value": 9
+          },
+          {
+            "Name": "waterLevelEffect",
+            "Value": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62.0055185,
+            -32.3712973
+          ],
+          [
+            62.0055185,
+            -32.3600973
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthContour",
+        "foid": "1810:87:2",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "valueOfDepthContour",
+            "Value": 1
+          }
+        ]
+      }
+    }
+  ]
+}

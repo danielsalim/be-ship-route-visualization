@@ -1,0 +1,3110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6827898,
+          -32.3952898
+        ]
+      },
+      "properties": {
+        "name": "P11023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6860285,
+          -32.4521288
+        ]
+      },
+      "properties": {
+        "name": "P11024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7309134,
+          -32.4512898
+        ]
+      },
+      "properties": {
+        "name": "P11014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.787342,
+          -32.4435684
+        ]
+      },
+      "properties": {
+        "name": "P11026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8094773,
+          -32.4441465
+        ]
+      },
+      "properties": {
+        "name": "P11027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6832703,
+          -32.4071518
+        ]
+      },
+      "properties": {
+        "name": "P11028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7082612,
+          -32.4517093
+        ]
+      },
+      "properties": {
+        "name": "P1107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7606884,
+          -32.4072463
+        ]
+      },
+      "properties": {
+        "name": "P1108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7642292,
+          -32.4427527
+        ]
+      },
+      "properties": {
+        "name": "P1109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7219202,
+          -32.4076086
+        ]
+      },
+      "properties": {
+        "name": "P11017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6835144,
+          -32.3326086
+        ]
+      },
+      "properties": {
+        "name": "P11031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8005434,
+          -32.406884
+        ]
+      },
+      "properties": {
+        "name": "P11030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6666666,
+          -32.4666666
+        ]
+      },
+      "properties": {
+        "name": "P1101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7530797,
+          -32.3945651
+        ]
+      },
+      "properties": {
+        "name": "P1102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7679347,
+          -32.3945651
+        ]
+      },
+      "properties": {
+        "name": "P1103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7120366,
+          -32.4399637
+        ]
+      },
+      "properties": {
+        "name": "P1104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7052536,
+          -32.3362318
+        ]
+      },
+      "properties": {
+        "name": "P1105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7157608,
+          -32.3833332
+        ]
+      },
+      "properties": {
+        "name": "P1106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7519927,
+          -32.3655796
+        ]
+      },
+      "properties": {
+        "name": "P11010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6797362,
+          -32.4399637
+        ]
+      },
+      "properties": {
+        "name": "P11011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7922101,
+          -32.3782608
+        ]
+      },
+      "properties": {
+        "name": "P11012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8067029,
+          -32.3778985
+        ]
+      },
+      "properties": {
+        "name": "P11013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7168478,
+          -32.396739
+        ]
+      },
+      "properties": {
+        "name": "P11015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.728442,
+          -32.3949275
+        ]
+      },
+      "properties": {
+        "name": "P11016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7143115,
+          -32.3663043
+        ]
+      },
+      "properties": {
+        "name": "P11018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.752355,
+          -32.3800724
+        ]
+      },
+      "properties": {
+        "name": "P11019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7672101,
+          -32.3804347
+        ]
+      },
+      "properties": {
+        "name": "P11020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7940217,
+          -32.3938405
+        ]
+      },
+      "properties": {
+        "name": "P11021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8110507,
+          -32.3945651
+        ]
+      },
+      "properties": {
+        "name": "P11022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6769927,
+          -32.3858695
+        ]
+      },
+      "properties": {
+        "name": "P11025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6780796,
+          -32.3688405
+        ]
+      },
+      "properties": {
+        "name": "P11029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.6769927,
+            -32.3858695
+          ],
+          [
+            61.6769927,
+            -32.3764177
+          ],
+          [
+            61.6906033,
+            -32.3764177
+          ],
+          [
+            61.6906033,
+            -32.3862476
+          ],
+          [
+            61.6769927,
+            -32.3858695
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7157608,
+            -32.3833332
+          ],
+          [
+            61.7157608,
+            -32.3746376
+          ],
+          [
+            61.7282371,
+            -32.3746376
+          ],
+          [
+            61.7282371,
+            -32.3833332
+          ],
+          [
+            61.7157608,
+            -32.3833332
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7168478,
+            -32.396739
+          ],
+          [
+            61.728442,
+            -32.3949275
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.6780796,
+            -32.3688405
+          ],
+          [
+            61.6780796,
+            -32.3586326
+          ],
+          [
+            61.6909341,
+            -32.3586326
+          ],
+          [
+            61.6909341,
+            -32.3688405
+          ],
+          [
+            61.6780796,
+            -32.3688405
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.6666666,
+            -32.4666666
+          ],
+          [
+            61.6666666,
+            -32.2999999
+          ],
+          [
+            61.8333333,
+            -32.2999999
+          ],
+          [
+            61.8333333,
+            -32.4666666
+          ],
+          [
+            61.6666666,
+            -32.4666666
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7120366,
+            -32.4399637
+          ],
+          [
+            61.7120366,
+            -32.4273792
+          ],
+          [
+            61.7325913,
+            -32.4273792
+          ],
+          [
+            61.7325913,
+            -32.4399637
+          ],
+          [
+            61.7120366,
+            -32.4399637
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7519927,
+            -32.3655796
+          ],
+          [
+            61.7519927,
+            -32.3580181
+          ],
+          [
+            61.7652094,
+            -32.3580181
+          ],
+          [
+            61.7652094,
+            -32.3655796
+          ],
+          [
+            61.7519927,
+            -32.3655796
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7143115,
+            -32.3663043
+          ],
+          [
+            61.7143115,
+            -32.3572306
+          ],
+          [
+            61.7271659,
+            -32.3572306
+          ],
+          [
+            61.7271659,
+            -32.3663043
+          ],
+          [
+            61.7143115,
+            -32.3663043
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.6797362,
+            -32.4399637
+          ],
+          [
+            61.6797362,
+            -32.4273792
+          ],
+          [
+            61.7011694,
+            -32.4273792
+          ],
+          [
+            61.7011694,
+            -32.4399637
+          ],
+          [
+            61.6797362,
+            -32.4399637
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.752355,
+            -32.3800724
+          ],
+          [
+            61.7672101,
+            -32.3804347
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7940217,
+            -32.3938405
+          ],
+          [
+            61.8110507,
+            -32.3945651
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C12012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7530797,
+            -32.3945651
+          ],
+          [
+            61.7679347,
+            -32.3945651
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7052536,
+            -32.3362318
+          ],
+          [
+            61.7052536,
+            -32.3275361
+          ],
+          [
+            61.7175725,
+            -32.3275361
+          ],
+          [
+            61.7175725,
+            -32.3362318
+          ],
+          [
+            61.7052536,
+            -32.3362318
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7922101,
+            -32.3782608
+          ],
+          [
+            61.8067029,
+            -32.3778985
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.7052536,
+              -32.3362318
+            ],
+            [
+              61.7052536,
+              -32.3275361
+            ],
+            [
+              61.7175725,
+              -32.3275361
+            ],
+            [
+              61.7175725,
+              -32.3362318
+            ],
+            [
+              61.7052536,
+              -32.3362318
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6769927,
+              -32.3858695
+            ],
+            [
+              61.6769927,
+              -32.3764177
+            ],
+            [
+              61.6906033,
+              -32.3764177
+            ],
+            [
+              61.6906033,
+              -32.3862476
+            ],
+            [
+              61.6769927,
+              -32.3858695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.7157608,
+              -32.3833332
+            ],
+            [
+              61.7157608,
+              -32.3746376
+            ],
+            [
+              61.7282371,
+              -32.3746376
+            ],
+            [
+              61.7282371,
+              -32.3833332
+            ],
+            [
+              61.7157608,
+              -32.3833332
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6780796,
+              -32.3688405
+            ],
+            [
+              61.6780796,
+              -32.3586326
+            ],
+            [
+              61.6909341,
+              -32.3586326
+            ],
+            [
+              61.6909341,
+              -32.3688405
+            ],
+            [
+              61.6780796,
+              -32.3688405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.7120366,
+              -32.4399637
+            ],
+            [
+              61.7120366,
+              -32.4273792
+            ],
+            [
+              61.7325913,
+              -32.4273792
+            ],
+            [
+              61.7325913,
+              -32.4399637
+            ],
+            [
+              61.7120366,
+              -32.4399637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.7519927,
+              -32.3655796
+            ],
+            [
+              61.7519927,
+              -32.3580181
+            ],
+            [
+              61.7652094,
+              -32.3580181
+            ],
+            [
+              61.7652094,
+              -32.3655796
+            ],
+            [
+              61.7519927,
+              -32.3655796
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.7143115,
+              -32.3663043
+            ],
+            [
+              61.7143115,
+              -32.3572306
+            ],
+            [
+              61.7271659,
+              -32.3572306
+            ],
+            [
+              61.7271659,
+              -32.3663043
+            ],
+            [
+              61.7143115,
+              -32.3663043
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S13010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6797362,
+              -32.4399637
+            ],
+            [
+              61.6797362,
+              -32.4273792
+            ],
+            [
+              61.7011694,
+              -32.4273792
+            ],
+            [
+              61.7011694,
+              -32.4399637
+            ],
+            [
+              61.6797362,
+              -32.4399637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NavigationalSystemOfMarks",
+        "foid": "1810:613:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "marksNavigationalSystemOf",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DataCoverage",
+        "foid": "1810:614:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "maximumDisplayScale",
+            "Value": 22000
+          },
+          {
+            "Name": "minimumDisplayScale",
+            "Value": 180000
+          },
+          {
+            "Name": "optimumDisplayScale",
+            "Value": 45000
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SoundingDatum",
+        "foid": "1810:3877773491:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 23
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "VerticalDatumOfData",
+        "foid": "1810:3877745791:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 17
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "QualityOfBathymetricData",
+        "foid": "1810:616:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfTemporalVariation",
+            "Value": 6
+          },
+          {
+            "Name": "dataAssessment",
+            "Value": 1
+          },
+          {
+            "Name": "featuresDetected",
+            "id": 3
+          },
+          {
+            "Name": "leastDepthOfDetectedFeaturesMeasured",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "significantFeaturesDetected",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "fullSeafloorCoverageAchieved",
+            "Value": 0
+          },
+          {
+            "Name": "surveyDateRange",
+            "id": 7
+          },
+          {
+            "Name": "dateEnd",
+            "parent": 7,
+            "Value": 20210101
+          },
+          {
+            "Name": "zoneOfConfidence",
+            "id": 9
+          },
+          {
+            "Name": "categoryOfZoneOfConfidenceInData",
+            "parent": 9,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7530797,
+            -32.3945651
+          ],
+          [
+            61.7679347,
+            -32.3945651
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:632:1",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 2
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Eddies"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6666666,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.2999999
+            ],
+            [
+              61.8333333,
+              -32.4666666
+            ],
+            [
+              61.6666666,
+              -32.4666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:615:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 10
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 20
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.7120366,
+              -32.4399637
+            ],
+            [
+              61.7120366,
+              -32.4273792
+            ],
+            [
+              61.7325913,
+              -32.4273792
+            ],
+            [
+              61.7325913,
+              -32.4399637
+            ],
+            [
+              61.7120366,
+              -32.4399637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "TidalStreamFloodEbb",
+        "foid": "1810:621:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfTidalStream",
+            "Value": 2
+          },
+          {
+            "Name": "orientation",
+            "id": 2
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 2,
+            "Value": null
+          },
+          {
+            "Name": "speed",
+            "id": 4
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 4,
+            "Value": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.7052536,
+              -32.3362318
+            ],
+            [
+              61.7052536,
+              -32.3275361
+            ],
+            [
+              61.7175725,
+              -32.3275361
+            ],
+            [
+              61.7175725,
+              -32.3362318
+            ],
+            [
+              61.7052536,
+              -32.3362318
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "TidalStreamPanelData",
+        "foid": "1810:643:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 1,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Tidal Stream Panel Data – Area"
+          },
+          {
+            "Name": "stationName",
+            "Value": "Plymouth (Devonport)"
+          },
+          {
+            "Name": "stationNumber",
+            "Value": 14
+          },
+          {
+            "Name": "tidalStreamPanelValues",
+            "id": 6
+          },
+          {
+            "Name": "referenceTide",
+            "parent": 6,
+            "Value": 1
+          },
+          {
+            "Name": "referenceTideType",
+            "parent": 6,
+            "Value": 1
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 9
+          },
+          {
+            "Name": "orientation",
+            "parent": 9,
+            "id": 10
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 10,
+            "Value": 113
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 9,
+            "Value": 0.1
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 9,
+            "Value": -6
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 14
+          },
+          {
+            "Name": "orientation",
+            "parent": 14,
+            "id": 15
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 15,
+            "Value": 332
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 14,
+            "Value": 0.6
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 14,
+            "Value": -5
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 19
+          },
+          {
+            "Name": "orientation",
+            "parent": 19,
+            "id": 20
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 20,
+            "Value": 331
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 19,
+            "Value": 1.1
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 19,
+            "Value": -4
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 24
+          },
+          {
+            "Name": "orientation",
+            "parent": 24,
+            "id": 25
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 25,
+            "Value": 342
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 24,
+            "Value": 1
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 24,
+            "Value": -3
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 29
+          },
+          {
+            "Name": "orientation",
+            "parent": 29,
+            "id": 30
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 30,
+            "Value": 347
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 29,
+            "Value": 0.7
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 29,
+            "Value": -2
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 34
+          },
+          {
+            "Name": "orientation",
+            "parent": 34,
+            "id": 35
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 35,
+            "Value": 333
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 34,
+            "Value": 0.5
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 34,
+            "Value": -1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.7157608,
+              -32.3833332
+            ],
+            [
+              61.7157608,
+              -32.3746376
+            ],
+            [
+              61.7282371,
+              -32.3746376
+            ],
+            [
+              61.7282371,
+              -32.3833332
+            ],
+            [
+              61.7157608,
+              -32.3833332
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:641:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 5
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Bombora"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7082612,
+          -32.4517093
+        ]
+      },
+      "properties": {
+        "name": "TidalStreamFloodEbb",
+        "foid": "1810:618:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfTidalStream",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Tidal Stream – Uncertain Direction"
+          },
+          {
+            "Name": "orientation",
+            "id": 5
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 5,
+            "Value": null
+          },
+          {
+            "Name": "speed",
+            "id": 7
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 7,
+            "Value": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7606884,
+          -32.4072463
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:627:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 3
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Overfalls"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7642292,
+          -32.4427527
+        ]
+      },
+      "properties": {
+        "name": "CurrentNonGravitational",
+        "foid": "1810:622:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 1,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Current non-gravitational"
+          },
+          {
+            "Name": "orientation",
+            "id": 4
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 4,
+            "Value": 135
+          },
+          {
+            "Name": "speed",
+            "id": 6
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 6,
+            "Value": 2.5
+          },
+          {
+            "Name": "speedMinimum",
+            "parent": 6,
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.7519927,
+              -32.3655796
+            ],
+            [
+              61.7519927,
+              -32.3580181
+            ],
+            [
+              61.7652094,
+              -32.3580181
+            ],
+            [
+              61.7652094,
+              -32.3655796
+            ],
+            [
+              61.7519927,
+              -32.3655796
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:638:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 2
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Eddies"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6797362,
+              -32.4399637
+            ],
+            [
+              61.6797362,
+              -32.4273792
+            ],
+            [
+              61.7011694,
+              -32.4273792
+            ],
+            [
+              61.7011694,
+              -32.4399637
+            ],
+            [
+              61.6797362,
+              -32.4399637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "TidalStreamFloodEbb",
+        "foid": "1810:620:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfTidalStream",
+            "Value": 1
+          },
+          {
+            "Name": "orientation",
+            "id": 2
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 2,
+            "Value": null
+          },
+          {
+            "Name": "speed",
+            "id": 4
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 4,
+            "Value": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7922101,
+            -32.3782608
+          ],
+          [
+            61.8067029,
+            -32.3778985
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:634:1",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Tide Rips"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7309134,
+          -32.4512898
+        ]
+      },
+      "properties": {
+        "name": "TidalStreamFloodEbb",
+        "foid": "1810:619:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfTidalStream",
+            "Value": 2
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Tidal Stream – Ebb"
+          },
+          {
+            "Name": "orientation",
+            "id": 5
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 5,
+            "Value": 180
+          },
+          {
+            "Name": "speed",
+            "id": 7
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 7,
+            "Value": 4.5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7168478,
+            -32.396739
+          ],
+          [
+            61.728442,
+            -32.3949275
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:630:1",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Breakers"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7219202,
+          -32.4076086
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:626:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 2
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Eddies"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.7143115,
+              -32.3663043
+            ],
+            [
+              61.7143115,
+              -32.3572306
+            ],
+            [
+              61.7271659,
+              -32.3572306
+            ],
+            [
+              61.7271659,
+              -32.3663043
+            ],
+            [
+              61.7143115,
+              -32.3663043
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:637:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Breakers"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.752355,
+            -32.3800724
+          ],
+          [
+            61.7672101,
+            -32.3804347
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:635:1",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 5
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Bombora"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.7940217,
+            -32.3938405
+          ],
+          [
+            61.8110507,
+            -32.3945651
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:633:1",
+        "prim": "Curve",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 3
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Overfalls"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6827898,
+          -32.3952898
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:629:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 5
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Bombora"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6860285,
+          -32.4521288
+        ]
+      },
+      "properties": {
+        "name": "TidalStreamFloodEbb",
+        "foid": "1810:617:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfTidalStream",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Tidal Stream – Flood"
+          },
+          {
+            "Name": "orientation",
+            "id": 5
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 5,
+            "Value": 90
+          },
+          {
+            "Name": "speed",
+            "id": 7
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 7,
+            "Value": 4.5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6769927,
+              -32.3858695
+            ],
+            [
+              61.6769927,
+              -32.3764177
+            ],
+            [
+              61.6906033,
+              -32.3764177
+            ],
+            [
+              61.6906033,
+              -32.3862476
+            ],
+            [
+              61.6769927,
+              -32.3858695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:640:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Tide Rips"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.787342,
+          -32.4435684
+        ]
+      },
+      "properties": {
+        "name": "CurrentNonGravitational",
+        "foid": "1810:623:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 1,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Current non-gravitational intermittent"
+          },
+          {
+            "Name": "orientation",
+            "id": 4
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 4,
+            "Value": 135
+          },
+          {
+            "Name": "speed",
+            "id": 6
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 6,
+            "Value": 2.5
+          },
+          {
+            "Name": "speedMinimum",
+            "parent": 6,
+            "Value": 1
+          },
+          {
+            "Name": "status",
+            "Value": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8094773,
+          -32.4441465
+        ]
+      },
+      "properties": {
+        "name": "CurrentNonGravitational",
+        "foid": "1810:624:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 1,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Current non-gravitational uncertain"
+          },
+          {
+            "Name": "orientation",
+            "id": 4
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 4,
+            "Value": null
+          },
+          {
+            "Name": "speed",
+            "id": 6
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 6,
+            "Value": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6832703,
+          -32.4071518
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:625:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 1
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Breakers"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6780796,
+              -32.3688405
+            ],
+            [
+              61.6780796,
+              -32.3586326
+            ],
+            [
+              61.6909341,
+              -32.3586326
+            ],
+            [
+              61.6909341,
+              -32.3688405
+            ],
+            [
+              61.6780796,
+              -32.3688405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:639:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 3
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Overfalls"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8005434,
+          -32.406884
+        ]
+      },
+      "properties": {
+        "name": "WaterTurbulence",
+        "foid": "1810:628:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfWaterTurbulence",
+            "Value": 4
+          },
+          {
+            "Name": "featureName",
+            "id": 2
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 2,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 2,
+            "Value": "Tide Rips"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6835144,
+          -32.3326086
+        ]
+      },
+      "properties": {
+        "name": "TidalStreamPanelData",
+        "foid": "1810:642:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "nameUsage",
+            "parent": 1,
+            "Value": 1
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Tidal Stream Panel Data – Point"
+          },
+          {
+            "Name": "stationName",
+            "Value": "Plymouth (Devonport)"
+          },
+          {
+            "Name": "stationNumber",
+            "Value": 14
+          },
+          {
+            "Name": "tidalStreamPanelValues",
+            "id": 6
+          },
+          {
+            "Name": "referenceTide",
+            "parent": 6,
+            "Value": 1
+          },
+          {
+            "Name": "referenceTideType",
+            "parent": 6,
+            "Value": 1
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 9
+          },
+          {
+            "Name": "orientation",
+            "parent": 9,
+            "id": 10
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 10,
+            "Value": 113
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 9,
+            "Value": 0.1
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 9,
+            "Value": -6
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 14
+          },
+          {
+            "Name": "orientation",
+            "parent": 14,
+            "id": 15
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 15,
+            "Value": 332
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 14,
+            "Value": 0.6
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 14,
+            "Value": -5
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 19
+          },
+          {
+            "Name": "orientation",
+            "parent": 19,
+            "id": 20
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 20,
+            "Value": 331
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 19,
+            "Value": 1.1
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 19,
+            "Value": -4
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 24
+          },
+          {
+            "Name": "orientation",
+            "parent": 24,
+            "id": 25
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 25,
+            "Value": 342
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 24,
+            "Value": 1
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 24,
+            "Value": -3
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 29
+          },
+          {
+            "Name": "orientation",
+            "parent": 29,
+            "id": 30
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 30,
+            "Value": 347
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 29,
+            "Value": 0.7
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 29,
+            "Value": -2
+          },
+          {
+            "Name": "tidalStreamValue",
+            "parent": 6,
+            "id": 34
+          },
+          {
+            "Name": "orientation",
+            "parent": 34,
+            "id": 35
+          },
+          {
+            "Name": "orientationValue",
+            "parent": 35,
+            "Value": 333
+          },
+          {
+            "Name": "speedMaximum",
+            "parent": 34,
+            "Value": 0.5
+          },
+          {
+            "Name": "timeRelativeToTide",
+            "parent": 34,
+            "Value": -1
+          }
+        ]
+      }
+    }
+  ]
+}

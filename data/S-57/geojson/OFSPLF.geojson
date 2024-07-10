@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "OFSPLF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 2830, "PRIM": 1, "GRUP": 2, "OBJL": 87, "RVER": 1, "AGEN": 550, "FIDN": 973251115, "FIDS": 12345, "LNAM": "02263A02A22B3039", "INFORM": "Floating", "SCAMIN": 44999, "SORDAT": "20140823", "SORIND": "US,US,graph,GC-11682" }, "geometry": { "type": "Point", "coordinates": [ -122.4222467, 47.2967677 ] } }
+]
+}

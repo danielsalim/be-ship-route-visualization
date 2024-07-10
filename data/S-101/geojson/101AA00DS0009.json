@@ -1,0 +1,831 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5215396,
+          -32.4417611
+        ]
+      },
+      "properties": {
+        "name": "P1104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5433376,
+          -32.4422349
+        ]
+      },
+      "properties": {
+        "name": "P1105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5646618,
+          -32.449185
+        ]
+      },
+      "properties": {
+        "name": "P1101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5,
+          -32.466667
+        ]
+      },
+      "properties": {
+        "name": "P1102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6145761,
+          -32.4490271
+        ]
+      },
+      "properties": {
+        "name": "P1103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5,
+            -32.466667
+          ],
+          [
+            61.5,
+            -32.3
+          ],
+          [
+            61.666667,
+            -32.3
+          ],
+          [
+            61.666667,
+            -32.466667
+          ],
+          [
+            61.5,
+            -32.466667
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.6145761,
+            -32.4490271
+          ],
+          [
+            61.6145761,
+            -32.4354428
+          ],
+          [
+            61.6496425,
+            -32.4354428
+          ],
+          [
+            61.6496425,
+            -32.4490271
+          ],
+          [
+            61.6145761,
+            -32.4490271
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            61.5646618,
+            -32.449185
+          ],
+          [
+            61.5646618,
+            -32.4363905
+          ],
+          [
+            61.6014657,
+            -32.4363905
+          ],
+          [
+            61.6014657,
+            -32.449185
+          ],
+          [
+            61.5646618,
+            -32.449185
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C1201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5646618,
+              -32.449185
+            ],
+            [
+              61.5646618,
+              -32.4363905
+            ],
+            [
+              61.6014657,
+              -32.4363905
+            ],
+            [
+              61.6014657,
+              -32.449185
+            ],
+            [
+              61.5646618,
+              -32.449185
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.466667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.466667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6145761,
+              -32.4490271
+            ],
+            [
+              61.6145761,
+              -32.4354428
+            ],
+            [
+              61.6496425,
+              -32.4354428
+            ],
+            [
+              61.6496425,
+              -32.4490271
+            ],
+            [
+              61.6145761,
+              -32.4490271
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.466667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.466667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S1304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.466667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DataCoverage",
+        "foid": "1810:562:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "maximumDisplayScale",
+            "Value": 22000
+          },
+          {
+            "Name": "minimumDisplayScale",
+            "Value": 180000
+          },
+          {
+            "Name": "optimumDisplayScale",
+            "Value": 45000
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.466667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SoundingDatum",
+        "foid": "1810:3877773491:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 23
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.466667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "VerticalDatumOfData",
+        "foid": "1810:3877745791:4",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "verticalDatum",
+            "Value": 17
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.466667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "QualityOfBathymetricData",
+        "foid": "1810:564:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfTemporalVariation",
+            "Value": 6
+          },
+          {
+            "Name": "dataAssessment",
+            "Value": 1
+          },
+          {
+            "Name": "featuresDetected",
+            "id": 3
+          },
+          {
+            "Name": "leastDepthOfDetectedFeaturesMeasured",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "significantFeaturesDetected",
+            "parent": 3,
+            "Value": 0
+          },
+          {
+            "Name": "fullSeafloorCoverageAchieved",
+            "Value": 0
+          },
+          {
+            "Name": "surveyDateRange",
+            "id": 7
+          },
+          {
+            "Name": "dateEnd",
+            "parent": 7,
+            "Value": 20210101
+          },
+          {
+            "Name": "zoneOfConfidence",
+            "id": 9
+          },
+          {
+            "Name": "categoryOfZoneOfConfidenceInData",
+            "parent": 9,
+            "Value": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.466667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NavigationalSystemOfMarks",
+        "foid": "1810:563:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "marksNavigationalSystemOf",
+            "Value": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5646618,
+              -32.449185
+            ],
+            [
+              61.5646618,
+              -32.4363905
+            ],
+            [
+              61.6014657,
+              -32.4363905
+            ],
+            [
+              61.6014657,
+              -32.449185
+            ],
+            [
+              61.5646618,
+              -32.449185
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:568:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Shark Bay"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.5,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.3
+            ],
+            [
+              61.666667,
+              -32.466667
+            ],
+            [
+              61.5,
+              -32.466667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DepthArea",
+        "foid": "1810:565:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "depthRangeMinimumValue",
+            "Value": 10
+          },
+          {
+            "Name": "depthRangeMaximumValue",
+            "Value": 20
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.6145761,
+              -32.4490271
+            ],
+            [
+              61.6145761,
+              -32.4354428
+            ],
+            [
+              61.6496425,
+              -32.4354428
+            ],
+            [
+              61.6496425,
+              -32.4490271
+            ],
+            [
+              61.6145761,
+              -32.4490271
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:569:1",
+        "prim": "Surface",
+        "attributes": [
+          {
+            "Name": "categoryOfSeaArea",
+            "Value": 4
+          },
+          {
+            "Name": "information",
+            "id": 2
+          },
+          {
+            "Name": "text",
+            "parent": 2,
+            "Value": "Neptune’s Bay, suitable for small craft mooring in July"
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5215396,
+          -32.4417611
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:566:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "featureName",
+            "id": 1
+          },
+          {
+            "Name": "language",
+            "parent": 1,
+            "Value": "eng"
+          },
+          {
+            "Name": "name",
+            "parent": 1,
+            "Value": "Dolphin Bay"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5433376,
+          -32.4422349
+        ]
+      },
+      "properties": {
+        "name": "SeaAreaNamedWaterArea",
+        "foid": "1810:567:1",
+        "prim": "Point",
+        "attributes": [
+          {
+            "Name": "categoryOfSeaArea",
+            "Value": 5
+          },
+          {
+            "Name": "information",
+            "id": 2
+          },
+          {
+            "Name": "text",
+            "parent": 2,
+            "Value": "Barnacle Bay, shoals at low water"
+          },
+          {
+            "Name": "language",
+            "parent": 2,
+            "Value": "eng"
+          }
+        ]
+      }
+    }
+  ]
+}

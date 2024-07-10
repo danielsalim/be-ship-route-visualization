@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "OILBAR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1588, "PRIM": 2, "GRUP": 2, "OBJL": 89, "RVER": 1, "AGEN": 550, "FIDN": 181065215, "FIDS": 7297, "LNAM": "02260ACAD5FF1C81", "CATOLB": 2, "SCAMIN": 44999, "SORDAT": "20140823", "SORIND": "US,US,graph,GC-11682" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.3886629, 47.2769292 ], [ -122.3908121, 47.2774369 ], [ -122.3911332, 47.2775128 ], [ -122.392463, 47.2778269 ], [ -122.3929483, 47.2779415 ] ] } }
+]
+}
