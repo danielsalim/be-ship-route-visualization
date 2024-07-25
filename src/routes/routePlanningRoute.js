@@ -1,7 +1,8 @@
-const express = require('express');
-const { generateRoute } = require('../controllers/routePlanningController');
+import express from 'express';
+import generateRoute from '../controllers/routePlanningController.js';
+
 const router = express.Router();
 
 router.post('/route', generateRoute);
 
-module.exports = router;
+export default router;

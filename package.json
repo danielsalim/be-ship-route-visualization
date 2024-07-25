@@ -7,16 +7,21 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
+  "type" : "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@turf/turf": "^7.0.0",
     "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "geojson-utils": "^1.1.0",
     "js-priority-queue": "^0.1.5",
     "js-yaml": "^4.1.0",
+    "node-fetch": "^3.3.2",
+    "rbush": "^4.0.0",
+    "rtree": "^1.4.2",
     "ws": "^8.18.0"
   },
   "devDependencies": {

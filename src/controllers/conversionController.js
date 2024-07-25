@@ -1,7 +1,7 @@
-const fs = require('fs');
-const path = require('path');
-const yaml = require('js-yaml');
-const convertYamlToGeoJson = require('../utils/convertYamlToGeoJson');
+import fs from 'fs';
+import path from 'path';
+import yaml from 'js-yaml';
+import convertYamlToGeoJson from '../utils/convertYamlToGeoJson.js';
 
 const convertYamlFile = (req, res) => {
     const yamlFileName = req.query.file || '101AA00DS0001.yaml';
@@ -26,6 +26,4 @@ const convertYamlFile = (req, res) => {
     }
 };
 
-module.exports = {
-    convertYamlFile
-};
+export default convertYamlFile;

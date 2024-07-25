@@ -1,4 +1,4 @@
-const yaml = require('js-yaml');
+import yaml from 'js-yaml';
 
 // Function to specifically remove the leading 'R' from keys
 const normalizeKey = (key) => key.startsWith('R') ? key.slice(1) : key;
@@ -127,4 +127,4 @@ const convertYamlToGeoJson = (yamlData) => {
     return { type: 'FeatureCollection', features };
 };
 
-module.exports = convertYamlToGeoJson;
+export default convertYamlToGeoJson;

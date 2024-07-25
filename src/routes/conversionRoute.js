@@ -1,7 +1,8 @@
-const express = require('express');
+import express from 'express';
+import convertYamlFile from '../controllers/conversionController.js';
+
 const router = express.Router();
-const { convertYamlFile } = require('../controllers/conversionController');
 
 router.get('/convert', convertYamlFile);
 
-module.exports = router;
+export default router;
