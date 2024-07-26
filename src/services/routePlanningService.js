@@ -1,15 +1,29 @@
 import * as turf from '@turf/turf';
 import rbush from 'rbush';
 
-const aStarAlgorithm = (start, goal, features, minDepth, lambda = 0.5, omega = 0.5) => {
+const aStarAlgorithm = (start, goal, features, minDepth, maxDistanceFromLand, neighborDistance) => {
     const spatialIndex = {
         lndare: buildSpatialIndex(features.lndare),
         depare: buildSpatialIndex(features.depare),
-        drgare: buildSpatialIndex(features.drgare)
+        drgare: buildSpatialIndex(features.drgare),
+        wrecks: buildSpatialIndex(features.wrecks),
+        obstrn: buildSpatialIndex(features.obstrn),
+        boylat: buildSpatialIndex(features.boylat),
     };
 
-    let neighborDistance = 0.0005;
-    let tolerance = 60;
+    let neighborDistanceDegree = 0.001
+    let tolerance = 60
+
+    if (maxDistanceFromLand != 22224) {
+        neighborDistanceDegree = 0.00075
+        tolerance = 45
+    }
+
+    if (neighborDistance != 100) {
+        neighborDistanceDegree = neighborDistance / 111111;
+        tolerance = neighborDistance * 6 / 10
+    }
+
     let penaltyCost = 999999999;
 
     const openSet = [start];
@@ -17,7 +31,7 @@ const aStarAlgorithm = (start, goal, features, minDepth, lambda = 0.5, omega = 0
     const gScore = {};
     const fScore = {};
 
-    let timeLimit = 30000; // 30 seconds
+    let timeLimit = 60000; // 60 seconds
     const startTime = Date.now();
 
     // Check if the current node is close enough to the other node
@@ -38,15 +52,15 @@ const aStarAlgorithm = (start, goal, features, minDepth, lambda = 0.5, omega = 0
         });
 
         console.log(`fScore: ${fScore[coordinateToString(current)]}, Heuristic: ${heuristic(current, goal)}`);
-        console.log("current", current)
+        // console.log("current", current)
 
         if (currentTime - startTime > timeLimit) {
-            return { route: [], message: "No route found. Time limit reached." };
+            return { route: [], message: "No route found" };
         }
 
         if (fScore[coordinateToString(current)] > penaltyCost) {
-            if (neighborDistance > 0.000125) {
-                neighborDistance *= 0.5;
+            if (neighborDistanceDegree > 0.000125) {
+                neighborDistanceDegree *= 0.5;
                 tolerance *= 0.5;
                 const previous = cameFrom[coordinateToString(current)];
                 openSet.splice(openSet.indexOf(current), 1);
@@ -77,7 +91,6 @@ const aStarAlgorithm = (start, goal, features, minDepth, lambda = 0.5, omega = 0
 
                 if (isPathInRestrictedArea(turf.lineString(path), features, minDepth)) {
                     return { route: [], message: "No route found" };
-
                 }
 
                 const route = path.reverse();
@@ -88,15 +101,41 @@ const aStarAlgorithm = (start, goal, features, minDepth, lambda = 0.5, omega = 0
         }
 
         openSet.splice(openSet.indexOf(current), 1);
-
-        const neighbors = generateNeighbors(current, neighborDistance);
+        console.log(neighborDistanceDegree)
+        const neighbors = generateNeighbors(current, neighborDistanceDegree);
 
         neighbors.forEach(neighbor => {
             const tentativeGScore = gScore[coordinateToString(current)] + heuristic(current, neighbor);
-            if (tentativeGScore < (gScore[coordinateToString(neighbor)] || Infinity)) {
+            let isInSea = false;
+
+            while (!isInSea) {
+                let foundInDepare = false;
+                let foundInDrgare = false;
+                for (const feature of features.depare) {
+                    if (turf.booleanPointInPolygon(turf.point(neighbor), feature.geometry)) {
+                        isInSea = true;
+                        foundInDepare = true;
+                        break; // Exit the for loop early
+                    }
+                }
+                if (!foundInDepare) {
+                    for (const feature of features.drgare) {
+                        if (turf.booleanPointInPolygon(turf.point(neighbor), feature.geometry)) {
+                            isInSea = true;
+                            foundInDrgare = true;
+                            break; // Exit the for loop early
+                        }
+                    }
+                }
+                if (!foundInDepare && !foundInDrgare) {
+                    break;
+                }
+            }
+
+            if (tentativeGScore < (gScore[coordinateToString(neighbor)] || Infinity) && isInSea) {
                 cameFrom[coordinateToString(neighbor)] = current;
                 gScore[coordinateToString(neighbor)] = tentativeGScore;
-                fScore[coordinateToString(neighbor)] = gScore[coordinateToString(neighbor)] + heuristic(neighbor, goal) + additionalCost(current, neighbor, spatialIndex, minDepth, penaltyCost);
+                fScore[coordinateToString(neighbor)] = gScore[coordinateToString(neighbor)] + heuristic(neighbor, goal) + additionalCost(current, neighbor, spatialIndex, minDepth, penaltyCost, maxDistanceFromLand);
                 openSet.push(neighbor);
             }
         });
@@ -119,20 +158,36 @@ const routeActualDistance = (route) => {
     return distance;
 }
 
+const createBoundingBox = (point, epsilon = 0.0005) => {
+    const [x, y] = point.coordinates;
+    return {
+        minX: x - epsilon,
+        minY: y - epsilon,
+        maxX: x + epsilon,
+        maxY: y + epsilon,
+        feature: point,
+    };
+};
+
 const buildSpatialIndex = (features) => {
     const index = new rbush();
-    const items = features.map(feature => ({
-        minX: turf.bbox(feature)[0],
-        minY: turf.bbox(feature)[1],
-        maxX: turf.bbox(feature)[2],
-        maxY: turf.bbox(feature)[3],
-        feature,
-    }));
+    const items = features.map(feature => {
+        const bbox = feature.geometry.type === 'Point'
+            ? createBoundingBox(feature.geometry)
+            : {
+                minX: turf.bbox(feature)[0],
+                minY: turf.bbox(feature)[1],
+                maxX: turf.bbox(feature)[2],
+                maxY: turf.bbox(feature)[3],
+                feature,
+            };
+        return { ...bbox, feature };
+    });
     index.load(items);
     return index;
 };
 
-const checkIntersection = (index, line, lineBbox, minDepth) => {
+const checkIntersectionArea = (index, line, lineBbox, minDepth) => {
     const potentialIntersections = index.search({
         minX: lineBbox[0],
         minY: lineBbox[1],
@@ -151,20 +206,87 @@ const checkIntersection = (index, line, lineBbox, minDepth) => {
     return false;
 };
 
-const additionalCost = (current, node, spatialIndex, minDepth, penaltyCost) => {
+const checkIntersectionPoint = (index, line, lineBbox, bufferDistance) => {
+    const potentialIntersections = index.search({
+        minX: lineBbox[0],
+        minY: lineBbox[1],
+        maxX: lineBbox[2],
+        maxY: lineBbox[3],
+    });
+    // console.log(potentialIntersections)
+    for (const item of potentialIntersections) {
+        if (item.feature.geometry.type === "Point") {
+            const buffer = turf.buffer(item.feature.geometry, bufferDistance, { units: 'meters' });
+            // console.log(turf.booleanIntersects(line, buffer))
+            if (turf.booleanIntersects(line, buffer)) {
+                return true;
+            }
+        }
+        else {
+            if (turf.booleanIntersects(line, item.feature.geometry)) {
+                return true;
+            }
+        }
+    }
+    return false;
+};
+
+const checkIntersectionMaxDistance = (index, circle, circleBbox) => {
+    let intersects = false;
+    const potentialIntersections = index.search({
+        minX: circleBbox[0],
+        minY: circleBbox[1],
+        maxX: circleBbox[2],
+        maxY: circleBbox[3],
+    });
+    for (const item of potentialIntersections) {
+        if (turf.booleanIntersects(circle, item.feature.geometry)) {
+            intersects = true;
+        }
+    }
+    if (!intersects) {
+        return true;
+    }
+    return false;
+}
+
+const additionalCost = (current, node, spatialIndex, minDepth, penaltyCost, maxDistanceFromLand) => {
     let cost = 0;
     const line = turf.lineString([current, node]);
     const lineBbox = turf.bbox(line);
+    const circle = turf.buffer(turf.point(current), maxDistanceFromLand, { units: 'meters' });
+    const circleBbox = turf.bbox(circle);
+    const bufferDistance = 25;
 
-    if (checkIntersection(spatialIndex.lndare, line, lineBbox)) {
+    if (checkIntersectionArea(spatialIndex.lndare, line, lineBbox)) {
         return penaltyCost; // Immediate return on land area intersection
     }
 
-    if (minDepth != -3.3) {
-        if (checkIntersection(spatialIndex.depare, line, lineBbox, minDepth) || checkIntersection(spatialIndex.drgare, line, lineBbox, minDepth)) {
+    if (checkIntersectionPoint(spatialIndex.obstrn, line, lineBbox, bufferDistance)) {
+        return penaltyCost; // Immediate return on obstruction intersection
+    }
+
+    if (checkIntersectionPoint(spatialIndex.wrecks, line, lineBbox, bufferDistance)) {
+        return penaltyCost; // Immediate return on wreck intersection
+    }
+
+    if (checkIntersectionPoint(spatialIndex.boylat, line, lineBbox, bufferDistance)) {
+        return penaltyCost; // Immediate return on buoy intersection
+    }
+
+    if (minDepth && minDepth != -3.3) {
+        if (checkIntersectionArea(spatialIndex.depare, line, lineBbox, minDepth) || checkIntersectionArea(spatialIndex.drgare, line, lineBbox, minDepth)) {
             return penaltyCost; // Immediate return on depth area intersection
         }
     }
+
+    if (maxDistanceFromLand && maxDistanceFromLand != 22224) {
+        if (checkIntersectionMaxDistance(spatialIndex.lndare, circle, circleBbox)) {
+            return penaltyCost; // Immediate return on area too far from land
+        }
+    }
+
+
 
     return cost;
 };
@@ -173,28 +295,76 @@ const isPathInRestrictedArea = (path, features, minDepth) => {
     const landArea = features.lndare;
     const depthArea = features.depare;
     const deradgedArea = features.drgare;
+    const wrecks = features.wrecks;
+    const obstrn = features.obstrn;
+    const boylat = features.boylat;
+    const bufferDistance = 25
 
     for (const feature of landArea) {
         if (turf.booleanIntersects(path, feature.geometry)) {
             return true;
         }
     }
-    // Check depth area
-    for (const feature of depthArea) {
-        if (turf.booleanIntersects(path, feature.geometry) && minDepth > feature.properties.drval1) {
-            return true;
+
+    for (const feature of wrecks) {
+        if (feature.geometry.type === "Point") {
+            const buffer = turf.buffer(feature.geometry, bufferDistance, { units: 'meters' });
+            if (turf.booleanIntersects(path, buffer)) {
+                return true;
+            }
+        }
+        else {
+            if (turf.booleanIntersects(path, feature.geometry)) {
+                return true;
+            }
         }
     }
-    for (const feature of deradgedArea) {
-        if (turf.booleanIntersects(path, feature.geometry) && minDepth > feature.properties.drval1) {
-            return true;
+
+    for (const feature of obstrn) {
+        if (feature.geometry.type === "Point") {
+            const buffer = turf.buffer(feature.geometry, bufferDistance, { units: 'meters' });
+            if (turf.booleanIntersects(path, buffer)) {
+                return true;
+            }
+        }
+        else {
+            if (turf.booleanIntersects(path, feature.geometry)) {
+                return true;
+            }
+        }
+    }
+
+    for (const feature of boylat) {
+        if (feature.geometry.type === "Point") {
+            const buffer = turf.buffer(feature.geometry, bufferDistance, { units: 'meters' });
+            if (turf.booleanIntersects(path, buffer)) {
+                return true;
+            }
+        }
+        else {
+            if (turf.booleanIntersects(path, feature.geometry)) {
+                return true;
+            }
+        }
+    }
+
+    // Check depth area
+    if (minDepth && minDepth != -3.3) {
+        for (const feature of depthArea) {
+            if (turf.booleanIntersects(path, feature.geometry) && minDepth > feature.properties.drval1) {
+                return true;
+            }
+        }
+        for (const feature of deradgedArea) {
+            if (turf.booleanIntersects(path, feature.geometry) && minDepth > feature.properties.drval1) {
+                return true;
+            }
         }
     }
     return false;
 };
 
 const generateNeighbors = (node, distance) => {
-    console.log(distance)
     const [x, y] = node;
     return [
         [x, y - distance],                    // Up
